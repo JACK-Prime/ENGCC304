@@ -2,7 +2,7 @@
 
 int main() {
     char Name[50] ;
-    int  Age ;
+    int  Age = 0;
     printf( "Enter your name: " ) ;
     scanf( "%s", &Name ) ;
     printf( "Enter your age: " ) ;
