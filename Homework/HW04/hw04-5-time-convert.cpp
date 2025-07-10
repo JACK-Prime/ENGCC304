@@ -19,8 +19,7 @@ int main () {
 
     int Days = 0, seconds = 0 ;
     
-    printf("Input Days :\n") ;
-    printf("    ") ;
+    printf("Input Days : ") ;
     scanf("%d",&Days) ;
 
     seconds = (Days * 24 )* 3600 ;
