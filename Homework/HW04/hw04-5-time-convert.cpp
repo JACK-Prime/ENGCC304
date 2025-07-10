@@ -18,7 +18,7 @@
 int main () {
 
     int Days = 0 ;
-    int seconds = 0 ;
+    int seconds = 0 ; 
     
     printf("Input Days : ") ;
     scanf("%d",&Days) ;
