@@ -26,6 +26,5 @@ int main () {
     seconds = (Days * 24 )* 3600 ;
     printf("%d Days = %d seconds", Days,seconds) ;
 
-
     return 0 ;
 }
