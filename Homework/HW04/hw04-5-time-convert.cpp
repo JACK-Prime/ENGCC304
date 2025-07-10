@@ -17,10 +17,10 @@
 
 int main () {
 
-    int Days = 0 ;
-    int seconds = 0 ; 
+    int Days = 0, seconds = 0 ;
     
-    printf("Input Days : ") ;
+    printf("Input Days :\n") ;
+    printf("    ") ;
     scanf("%d",&Days) ;
 
     seconds = (Days * 24 )* 3600 ;
