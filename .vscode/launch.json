@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/LAP/LAP01",
-      "program": "d:/LAP/LAP01/build/Debug/outDebug",
+      "cwd": "d:/LAP/Homework/HW04",
+      "program": "d:/LAP/Homework/HW04/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
