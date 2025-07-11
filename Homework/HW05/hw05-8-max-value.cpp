@@ -20,5 +20,25 @@
     int main () {
         int num1 = 0,num2 = 0,num3 = 0 ;
         
+        printf("Enter 3 numbers : ") ;
+        scanf("%d %d %d",&num1,&num2,&num3) ;
+
+        printf("1st Number = %d\n",num1) ;
+        printf("2nd Number = %d\n",num2) ;
+        printf("1rd Number = %d\n",num3) ;
+
+        if (num1 >= num2 && num1 >= num3) { 
+            printf("The 1st Number is the greatest among three") ;
+        }
+        else if (num2 >= num1 && num2 >= num3) { 
+            printf("The 2nd Number is the greatest among three") ;
+        }
+        else if (num3 >= num1 && num3 >= num2) {
+            printf("The 3rd Number is the greatest among three") ;
+        }
+        else {
+            printf("Invalid number");
+        }
+        
         return 0 ;
     }

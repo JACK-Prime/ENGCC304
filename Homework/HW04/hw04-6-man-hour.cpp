@@ -41,8 +41,8 @@ int main () {
     //process
     cal_salary = salary_per_hr * hr_working ;
     //output
-    printf("----------output------------");
-    printf("\nExpected Output :\n") ;
+    printf("----------output------------\n");
+    printf("Expected Output :\n") ;
     printf("Employees ID = %s\n" ,Employees_ID) ;
     printf("Salary = U$ %.2f",cal_salary);
 
