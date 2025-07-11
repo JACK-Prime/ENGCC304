@@ -29,16 +29,19 @@ int main () {
     scanf("%d",&years) ;
 
     if (years % 4 != 0 ) {
-        printf("February has 28 days");
+        printf("February has 28 days") ;
     }
     else if (years % 4 == 0 && years % 100 == 0 && years % 400 != 0 ) {
-        printf("February has 28 days");
+        printf("February has 28 days") ;
     }
     else if (years % 4 == 0 && years % 100 != 0) {
-        printf("February has 29 days");
+        printf("February has 29 days") ;
     }
     else if (years % 4 == 0 && years % 400 == 0) {
-        printf("February has 29 days");
+        printf("February has 29 days") ;
+    }
+    else {
+        printf("Invalid number") ;
     }
 
     return 0 ;

@@ -40,8 +40,11 @@ int main () {
     else if (num1 < num2) {
         printf("Number1 lower than Number2");
     }
-    else {
+    else if (num1 == num2) {
         printf("Number1 equal Number2");
+    }
+    else {
+        printf("Invaild input!!!");
     }
     
     return 0 ;

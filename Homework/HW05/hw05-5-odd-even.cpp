@@ -27,6 +27,5 @@ int main () {
     else{
         printf("%d is an odd integer" ,num) ;
     }
-
     return 0 ;
 }
