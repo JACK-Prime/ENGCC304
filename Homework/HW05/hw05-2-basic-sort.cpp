@@ -34,29 +34,25 @@ int main () {
     //condition and process 
     if ((num1 > num2) && (num1 > num3) && (num2 > num3)) { // 1 2 3
         printf("Sort >>> %d %d %d" , num1,num2,num3);
-    }
+    }//end if
     else if ((num1 > num2) && (num1 > num3) && (num3 > num2)) { // 1 3 2
         printf("Sort >>> %d %d %d" , num1,num3,num2);
-    }
+    }//end else if
     else if ((num2 > num1) && (num2 > num3) && (num1 > num3)) { // 2 1 3
         printf("Sort >>> %d %d %d" , num2,num1,num3);
-    }
+    }//end else if
     else if ((num2 > num1) && (num2 > num3) && (num3 > num1)) { // 2 3 1
         printf("Sort >>> %d %d %d" , num2,num3,num1);
-    }
+    }//end else if
     else if ((num3 > num1) && (num3 > num2) && (num1 > num2)) { // 3 1 2
         printf("Sort >>> %d %d %d" , num3,num1,num2);
-    }
+    }//end else if
     else if ((num3 > num1) && (num3 > num2) && (num1 > num2)) { // 3 2 1
         printf("Sort >>> %d %d %d" , num3,num2,num1);
-    }
+    }//end else if 
     else {
-        printf("numbers are equal or allnum are equal");
-    }
-    
-    
-
+        printf("numbers are equal or All numbers are equal");
+    }//end else
 
     return 0 ;
-
 }
