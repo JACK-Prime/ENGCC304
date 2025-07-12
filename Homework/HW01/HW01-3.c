@@ -2,7 +2,7 @@
 int main() {
     char firstName[20], lastName[20] = "";
 
-    prtintf("First Name: ");
+    printf("First Name: ");
     scanf("%s", firstName);
     printf("Last Name: ");
     scanf("%s", lastName);
