@@ -36,15 +36,8 @@ int main () {
     printf("Enter line : ") ;
     scanf("%d", &line) ;
     
-    for (i = 1 ; i <= line ; i++) {
-        if ((line % 2) == 0 ) {
-            printf("(%d) Hello World\n", i) ;
-        }
-        else {
-            printf("[%d] Hello World\n", i) ;
-        }
+    for (i = 1 ; i <= line ; i++) {  
+        (line % 2) == 0 ? printf("(%d) Hello World\n", i) : printf("[%d] Hello World\n", i) ; // (condition) ? value if true : value if false  
     }
     return 0 ;
-
-
 }
