@@ -29,12 +29,11 @@ int main () {
         series = (9*(pow(10,i)));
         result += series ;
         sum += result ;
-        printf("%d %d", result,i);
+        printf("%d", result);
         
         for (j = i; j < digit - 1 ; j++) {
             printf(" + ");
-            printf("%d %d ",i,j);
-            j = digit;
+            break; 
         }
     } 
     printf("\nSum = %d",sum);
