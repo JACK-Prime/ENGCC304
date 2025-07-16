@@ -21,17 +21,6 @@ int main () {
     printf("Enter number : ") ;
     scanf("%d",&num) ;
     
-    /*for (i = num; i >= 2; i--) {
-        for (j = 2; j < i; j++) {
-            if (i % j == 0) {
-                break; // ถ้าหารลงตัว ออก
-            }
-        }
-        for (; j == i; ) { // ถ้า j วิ่งครบ ไม่เจอ break → j==i → prime
-            printf("%d ", i);
-            break;
-        }
-    }*/
     for (i = num ; i >= 2 ; i--) {
         if (i == 2 || i == 3 || i == 5 || i == 7){
                 printf("%d ",i);
