@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-        <mxGraphModel dx="2007" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2794" dy="2202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -167,14 +167,14 @@
                 <mxCell id="mvioNwK95yMqdUQ73LqQ-36" value="แก้ไขโจทย์ปัญหา" style="swimlane;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
                     <mxGeometry x="70" y="-80" width="1030" height="2390" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="mvioNwK95yMqdUQ73LqQ-35" target="1" edge="1">
+                <mxCell id="2" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="275" target="1" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="mvioNwK95yMqdUQ73LqQ-35" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="338.90999999999997" y="70" width="130" height="30" as="geometry"/>
+                    <mxGeometry x="338.90999999999997" y="59" width="130" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="mvioNwK95yMqdUQ73LqQ-69" value="&lt;font face=&quot;Sarabun&quot;&gt;สิ้นสุด&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="349.89" y="2322" width="130" height="30" as="geometry"/>
+                    <mxGeometry x="349.89" y="2274" width="130" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-0" target="K2V_airpF5OzPuWJYtam-4" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -233,7 +233,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="K2V_airpF5OzPuWJYtam-8" value="สินค้าประเภทน้ำ" style="rhombus;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+                <mxCell id="K2V_airpF5OzPuWJYtam-8" value="&lt;div&gt;เลือก&lt;/div&gt;สินค้าประเภทน้ำ" style="rhombus;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="348.89" y="458" width="115" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
@@ -276,7 +276,7 @@
                 <mxCell id="71" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-25" target="70" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="99" value="N(ไม่)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="71">
+                <mxCell id="99" value="N(ไม่)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="71" vertex="1" connectable="0">
                     <mxGeometry x="-0.3122" y="1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
@@ -284,32 +284,32 @@
                 <mxCell id="K2V_airpF5OzPuWJYtam-25" value="ต้องการแก้ไขรายการไหม?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="331.26" y="881" width="159.25" height="99" as="geometry"/>
                 </mxCell>
-                <mxCell id="153" value="" style="edgeStyle=none;html=1;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-30" target="K2V_airpF5OzPuWJYtam-33">
+                <mxCell id="153" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-30" target="K2V_airpF5OzPuWJYtam-33" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="K2V_airpF5OzPuWJYtam-30" value="แสดงยอดรวมของราคาสินค้า&lt;div&gt;และ ชื่อรายการ&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="324.89" y="1536" width="174.5" height="48" as="geometry"/>
+                <mxCell id="K2V_airpF5OzPuWJYtam-30" value="แสดงยอดรวมของราคาสินค้า(sum)&lt;div&gt;และ ชื่อรายการ&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+                    <mxGeometry x="318" y="1488" width="189.39" height="48" as="geometry"/>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-33" target="K2V_airpF5OzPuWJYtam-40" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-33" value="แสดงยอด&lt;span style=&quot;font-family: Sarabun; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;เหรียญ และธนบัตร&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(int&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 13px; font-family: Sarabun; text-align: left; text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ที่เหลือในตู้)&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.06486486486486487;fillColor=#cce5ff;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="320.89" y="1655" width="185" height="45" as="geometry"/>
+                    <mxGeometry x="320.89" y="1607" width="185" height="45" as="geometry"/>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-37" value="" style="endArrow=none;html=1;rounded=0;" parent="mvioNwK95yMqdUQ73LqQ-36" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="614.89" y="1630.0000000000002" as="sourcePoint"/>
-                        <mxPoint x="574.89" y="1630.0000000000002" as="targetPoint"/>
+                        <mxPoint x="614.89" y="1582.0000000000002" as="sourcePoint"/>
+                        <mxPoint x="574.89" y="1582.0000000000002" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-38" value="" style="endArrow=none;html=1;rounded=0;" parent="mvioNwK95yMqdUQ73LqQ-36" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="614.89" y="1695" as="sourcePoint"/>
-                        <mxPoint x="574.89" y="1695" as="targetPoint"/>
+                        <mxPoint x="614.89" y="1647" as="sourcePoint"/>
+                        <mxPoint x="574.89" y="1647" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-39" value="function คำนวณหาจำนวนเหรียญ และธนบัตร(ของตู้)&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;มีการแสดงผล จำนวนของเหรียญ และธนบัตร&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;ใน function ด้วย&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="578.89" y="1632.0000000000002" width="242" height="60" as="geometry"/>
+                    <mxGeometry x="578.89" y="1585.0000000000002" width="242" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-40" target="K2V_airpF5OzPuWJYtam-44" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -328,28 +328,30 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-40" value="ลูกค้าชำระเงินก่อน&amp;nbsp;&lt;div&gt;2 หรือไม่?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="349.89" y="1727" width="129.5" height="80" as="geometry"/>
+                    <mxGeometry x="349.89" y="1679" width="129.5" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-36" value="" style="endArrow=none;html=1;rounded=0;" parent="mvioNwK95yMqdUQ73LqQ-36" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="574.32" y="1695" as="sourcePoint"/>
-                        <mxPoint x="574.89" y="1630.0000000000002" as="targetPoint"/>
+                        <mxPoint x="574.32" y="1647" as="sourcePoint"/>
+                        <mxPoint x="574.89" y="1582.0000000000002" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-35" value="" style="endArrow=none;html=1;rounded=0;" parent="mvioNwK95yMqdUQ73LqQ-36" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="574.32" y="1675" as="sourcePoint"/>
-                        <mxPoint x="524.32" y="1675" as="targetPoint"/>
+                        <mxPoint x="574.32" y="1627" as="sourcePoint"/>
+                        <mxPoint x="524.32" y="1627" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-44" target="K2V_airpF5OzPuWJYtam-49" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-44" value="รับค่าเงินของลูกค้า&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="328.14" y="1839" width="174.5" height="48" as="geometry"/>
+                    <mxGeometry x="328.14" y="1791" width="174.5" height="48" as="geometry"/>
                 </mxCell>
-                <mxCell id="K2V_airpF5OzPuWJYtam-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-49" target="K2V_airpF5OzPuWJYtam-61" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
+                <mxCell id="K2V_airpF5OzPuWJYtam-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-49" target="K2V_airpF5OzPuWJYtam-61" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="604.8899999999999" y="1911" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-63" value="N(ยอดไม่พอ)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="K2V_airpF5OzPuWJYtam-62" vertex="1" connectable="0">
                     <mxGeometry x="-0.1502" relative="1" as="geometry">
@@ -358,7 +360,7 @@
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-49" target="K2V_airpF5OzPuWJYtam-70" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="414.89" y="2060" as="targetPoint"/>
+                        <mxPoint x="414.89" y="2012" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-67" value="Y(ยอดพอ)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="K2V_airpF5OzPuWJYtam-66" vertex="1" connectable="0">
@@ -367,84 +369,85 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-49" value="check ว่ายอดเงิน &amp;gt;= เงินของลูกค้าหรือไม่?" style="rhombus;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="320.64" y="1908" width="189.5" height="102" as="geometry"/>
+                    <mxGeometry x="320.64" y="1860" width="189.5" height="102" as="geometry"/>
                 </mxCell>
-                <mxCell id="K2V_airpF5OzPuWJYtam-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-51" edge="1" target="K2V_airpF5OzPuWJYtam-2">
+                <mxCell id="K2V_airpF5OzPuWJYtam-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-51" target="275" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="930" y="1767"/>
-                            <mxPoint x="930" y="225"/>
+                            <mxPoint x="735" y="1720"/>
+                            <mxPoint x="930" y="1720"/>
+                            <mxPoint x="930" y="127"/>
                         </Array>
                         <mxPoint x="415.89" y="220" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-51" value="ยกเลิกการดำเดินการทั้งหมด" style="rounded=0;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="614.89" y="1747" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="614.89" y="1699" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="K2V_airpF5OzPuWJYtam-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-61" edge="1">
+                <mxCell id="K2V_airpF5OzPuWJYtam-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-61" edge="1" target="275">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="415.89" y="220" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="960" y="1959"/>
-                            <mxPoint x="960" y="220"/>
+                            <mxPoint x="960" y="1910"/>
+                            <mxPoint x="960" y="113"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-61" value="&lt;div&gt;แจ้งให้ลูกค้าทราบ และ คืนเงินให้ลูกค้าแล้ว&lt;/div&gt;ยกเลิกการดำเดินการทั้งหมด" style="rounded=0;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="604.89" y="1939" width="225.11" height="40" as="geometry"/>
+                    <mxGeometry x="609.78" y="1891" width="225.11" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-69" target="K2V_airpF5OzPuWJYtam-82" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-69" value="แสดงยอด&lt;span style=&quot;font-family: Sarabun; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;เหรียญ และธนบัตร&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(int ค่าเงินทอของลูกค้า&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 13px; font-family: Sarabun; text-align: left; text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.06486486486486487;fillColor=#cce5ff;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="323.14" y="2130" width="185" height="45" as="geometry"/>
+                    <mxGeometry x="323.14" y="2082" width="185" height="45" as="geometry"/>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-70" target="K2V_airpF5OzPuWJYtam-69" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-70" value="ค่าเงินเงินทอนของลูกค้า =&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ค่าเงินของลูกค้า -&amp;nbsp; sum&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="273.46" y="2063" width="284.36" height="40" as="geometry"/>
+                    <mxGeometry x="273.46" y="2015" width="284.36" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-72" value="" style="endArrow=none;html=1;rounded=0;" parent="mvioNwK95yMqdUQ73LqQ-36" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="614.89" y="2120" as="sourcePoint"/>
-                        <mxPoint x="574.89" y="2120" as="targetPoint"/>
+                        <mxPoint x="614.89" y="2072" as="sourcePoint"/>
+                        <mxPoint x="574.89" y="2072" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-73" value="" style="endArrow=none;html=1;rounded=0;" parent="mvioNwK95yMqdUQ73LqQ-36" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="614.89" y="2189" as="sourcePoint"/>
-                        <mxPoint x="574.89" y="2189" as="targetPoint"/>
+                        <mxPoint x="614.89" y="2141" as="sourcePoint"/>
+                        <mxPoint x="574.89" y="2141" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-74" value="&lt;font&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;function คำนวณหาจำนวนเงิน&lt;/font&gt;&lt;font&gt;&lt;font&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; text-wrap-mode: nowrap; color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 11px; color: rgb(255, 255, 255);&quot;&gt;ที่ต้องทอนให้ของลูกค้า&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;มีการแสดงผล จำนวนของเหรียญ และธนบัตร&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;ใน function ด้วย&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="578.89" y="2125.75" width="256" height="57.5" as="geometry"/>
+                    <mxGeometry x="578.89" y="2077.75" width="256" height="57.5" as="geometry"/>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-75" value="" style="endArrow=none;html=1;rounded=0;" parent="mvioNwK95yMqdUQ73LqQ-36" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="574.89" y="2190" as="sourcePoint"/>
-                        <mxPoint x="574.89" y="2120" as="targetPoint"/>
+                        <mxPoint x="574.89" y="2142" as="sourcePoint"/>
+                        <mxPoint x="574.89" y="2072" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="35" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="K2V_airpF5OzPuWJYtam-82" target="mvioNwK95yMqdUQ73LqQ-69" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="K2V_airpF5OzPuWJYtam-82" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ทอนเงินตามค่าผลลัพธ์จากfunction ด้านบน และ บันทึกรายการ&lt;/span&gt;&lt;div&gt;จัดส่งรายการสินค้าตามรายการสินค้าที่ลูกค้าเลือก&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="279.67" y="2207" width="269.93" height="88" as="geometry"/>
+                    <mxGeometry x="279.67" y="2159" width="269.93" height="88" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="1" target="K2V_airpF5OzPuWJYtam-2" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="1" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;กำหนด --&amp;gt; int : sum = 0 , x(ค่ารายการสิรค้า) = 0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;char list[]&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;align=left;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="279.07" y="130" width="251.67" height="50" as="geometry"/>
+                    <mxGeometry x="278.07" y="150" width="251.67" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="257" value="" style="edgeStyle=none;html=1;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="12" target="256">
+                <mxCell id="257" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="12" target="256" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="12" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;แสดงรายการสินค้า&lt;/span&gt;&lt;div&gt;ประเภทขนม&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="518.89" y="480" width="149" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="209" value="" style="edgeStyle=none;html=1;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="15" target="203">
+                <mxCell id="209" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="15" target="203" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;แสดงรายการสินค้า&lt;/span&gt;&lt;div&gt;ประเภทน้ำ&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
@@ -492,13 +495,13 @@
                 <mxCell id="32" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ต้องการลบรายการสินค้า?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="530.7900000000001" y="1080" width="141.19" height="93" as="geometry"/>
                 </mxCell>
-                <mxCell id="271" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="64" target="270">
+                <mxCell id="271" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="64" target="270" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="64" value="แสดงรายการใน list ของลูกค้า" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="512.19" y="1226" width="176.39" height="33" as="geometry"/>
                 </mxCell>
-                <mxCell id="98" value="" style="edgeStyle=none;html=1;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="70" target="K2V_airpF5OzPuWJYtam-30">
+                <mxCell id="98" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="70" target="K2V_airpF5OzPuWJYtam-30" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="70" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
@@ -515,13 +518,13 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="93" value="" style="edgeStyle=none;html=1;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="87" target="92">
+                <mxCell id="93" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="87" target="92" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="87" value="รับค่า x ราคาสินค้าที่เลือก" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="525" y="1350" width="149" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="96" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fa6800;strokeColor=#C73500;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="92">
+                <mxCell id="96" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fa6800;strokeColor=#C73500;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="92" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="601.6579591836735" y="1568" as="sourcePoint"/>
                         <mxPoint x="418.6399999999999" y="859" as="targetPoint"/>
@@ -532,33 +535,33 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="92" value="คำนวณยอดรวมที่สั่งไป&lt;div&gt;sum = sum - x&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
+                <mxCell id="92" value="คำนวณยอดรวมที่สั่งไป&lt;div&gt;sum = sum - x&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="538.44" y="1410" width="122.11" height="34" as="geometry"/>
                 </mxCell>
-                <mxCell id="94" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
+                <mxCell id="94" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="401.64" y="849" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="95" value="" style="edgeStyle=none;html=1;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="17" target="94">
+                <mxCell id="95" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="17" target="94" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="-259.11" y="1435" as="sourcePoint"/>
                         <mxPoint x="-259.11" y="1481" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="104" value="" style="endArrow=none;html=1;rounded=0;exitX=0.95;exitY=0.431;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" target="K2V_airpF5OzPuWJYtam-74">
+                <mxCell id="104" value="" style="endArrow=none;html=1;rounded=0;exitX=0.95;exitY=0.431;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="545.6399999999999" y="2154.4299999999994" as="sourcePoint"/>
-                        <mxPoint x="571.64" y="2154.93" as="targetPoint"/>
+                        <mxPoint x="545.6399999999999" y="2106.4299999999994" as="sourcePoint"/>
+                        <mxPoint x="578.8899999999999" y="2106.5" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="135" value="" style="edgeStyle=none;html=1;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="131" target="K2V_airpF5OzPuWJYtam-20">
+                <mxCell id="135" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="131" target="K2V_airpF5OzPuWJYtam-20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="136" value="ํY(มี)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="135">
+                <mxCell id="136" value="ํY(มี)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="135" vertex="1" connectable="0">
                     <mxGeometry x="-0.0356" y="3" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="143" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="131" target="141">
+                <mxCell id="143" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="131" target="141" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="87.89000000000046" y="740" as="targetPoint"/>
                         <Array as="points">
@@ -566,43 +569,43 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="144" value="์" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="143">
+                <mxCell id="144" value="์" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="143" vertex="1" connectable="0">
                     <mxGeometry x="-0.569" y="1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="145" value="N(ไม่มี)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="143">
+                <mxCell id="145" value="N(ไม่มี)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="143" vertex="1" connectable="0">
                     <mxGeometry x="-0.6432" y="-3" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="131" value="หลังจากลูกค้าเลือกสินค้านั้น&lt;div&gt;รายการนั้นมีในตู้ไหม?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
+                <mxCell id="131" value="หลังจากลูกค้าเลือกสินค้านั้น&lt;div&gt;รายการนั้นมีในตู้ไหม?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="152.26" y="600" width="179" height="107" as="geometry"/>
                 </mxCell>
-                <mxCell id="138" value="" style="edgeStyle=none;html=1;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="133" target="K2V_airpF5OzPuWJYtam-18">
+                <mxCell id="138" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="133" target="K2V_airpF5OzPuWJYtam-18" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="139" value="Y(มี)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="138">
+                <mxCell id="139" value="Y(มี)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="138" vertex="1" connectable="0">
                     <mxGeometry x="-0.3206" y="1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="148" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="133" target="147">
+                <mxCell id="148" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="133" target="147" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="760.89" y="650"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="149" value="N(ไม่มี)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="148">
+                <mxCell id="149" value="N(ไม่มี)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="148" vertex="1" connectable="0">
                     <mxGeometry x="-0.4262" y="1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="133" value="หลังจากลูกค้าเลือกสินค้านั้น&lt;div&gt;รายการนั้นมีในตู้ไหม?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
+                <mxCell id="133" value="หลังจากลูกค้าเลือกสินค้านั้น&lt;div&gt;รายการนั้นมีในตู้ไหม?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="505.39" y="600" width="179" height="107" as="geometry"/>
                 </mxCell>
-                <mxCell id="146" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="141" target="K2V_airpF5OzPuWJYtam-10">
+                <mxCell id="146" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="141" target="K2V_airpF5OzPuWJYtam-10" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="120" y="740" as="sourcePoint"/>
                         <Array as="points">
@@ -613,10 +616,10 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="141" value="แจ้งลูกค้าว่าสินค้านั้นหมด" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
+                <mxCell id="141" value="แจ้งลูกค้าว่าสินค้านั้นหมด" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="13.39" y="677" width="149" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="150" style="edgeStyle=none;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="147" target="K2V_airpF5OzPuWJYtam-10">
+                <mxCell id="150" style="edgeStyle=none;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="147" target="K2V_airpF5OzPuWJYtam-10" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="761.89" y="720"/>
@@ -625,10 +628,10 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="147" value="แจ้งลูกค้าว่าสินค้านั้นหมด" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
+                <mxCell id="147" value="แจ้งลูกค้าว่าสินค้านั้นหมด" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="685.89" y="677" width="149" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="208" style="edgeStyle=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fillColor=#ffcccc;strokeColor=#FF3333;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="203" target="K2V_airpF5OzPuWJYtam-10">
+                <mxCell id="208" style="edgeStyle=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fillColor=#ffcccc;strokeColor=#FF3333;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="203" target="K2V_airpF5OzPuWJYtam-10" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="121.77000000000004" y="556.6865471097948" as="sourcePoint"/>
                         <mxPoint x="360.88893218813433" y="433.32106781186553" as="targetPoint"/>
@@ -638,21 +641,21 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="212" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ถ้าทั้งหมดเป็นเท็จ&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="208">
+                <mxCell id="212" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ถ้าทั้งหมดเป็นเท็จ&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="208" vertex="1" connectable="0">
                     <mxGeometry x="-0.8176" y="2" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="210" value="" style="edgeStyle=none;html=1;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="203" target="131">
+                <mxCell id="210" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="203" target="131" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="203" value="Drinks" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.06486486486486487;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
+                <mxCell id="203" value="Drinks" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.06486486486486487;fillColor=#ffcccc;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="162.39" y="545" width="154.11" height="32" as="geometry"/>
                 </mxCell>
-                <mxCell id="258" value="" style="edgeStyle=none;html=1;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="256" target="133">
+                <mxCell id="258" value="" style="edgeStyle=none;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" source="256" target="133" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="259" style="edgeStyle=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFF33;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="256" target="K2V_airpF5OzPuWJYtam-10">
+                <mxCell id="259" style="edgeStyle=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFF33;" parent="mvioNwK95yMqdUQ73LqQ-36" source="256" target="K2V_airpF5OzPuWJYtam-10" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="800" y="560"/>
@@ -660,19 +663,28 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="260" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ถ้าทั้งหมดเป็นเท็จ&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="259">
+                <mxCell id="260" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ถ้าทั้งหมดเป็นเท็จ&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="259" vertex="1" connectable="0">
                     <mxGeometry x="-0.7824" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="256" value="Snacks" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.06486486486486487;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
+                <mxCell id="256" value="Snacks" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.06486486486486487;fillColor=#ffff88;strokeColor=#36393d;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="515.89" y="540" width="154.11" height="32" as="geometry"/>
                 </mxCell>
-                <mxCell id="274" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="270" target="87">
+                <mxCell id="274" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="270" target="87" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="270" value="ลูกค้าเลือกสินค้า" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
+                <mxCell id="270" value="ลูกค้าเลือกสินค้า" style="rounded=0;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="546.83" y="1280" width="105.11" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="275" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="mvioNwK95yMqdUQ73LqQ-36">
+                    <mxGeometry x="393.9" y="110" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="276" value="" style="edgeStyle=none;html=1;" edge="1" parent="mvioNwK95yMqdUQ73LqQ-36" source="mvioNwK95yMqdUQ73LqQ-35" target="275">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="474" y="20" as="sourcePoint"/>
+                        <mxPoint x="474" y="70" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="mvioNwK95yMqdUQ73LqQ-70" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;โจทย์ปัญหา&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
                     <mxGeometry x="-720" y="320" width="640" height="240" as="geometry"/>
@@ -680,128 +692,128 @@
                 <mxCell id="mvioNwK95yMqdUQ73LqQ-71" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot; style=&quot;font-size: 14px;&quot;&gt;จงเขียน Flowchart เพื่อแสดงขั้นตอนการทำงาน ของเครื่องขายน้ำอัตโนมัติที่ชื่อว่า &quot;ตะพาบลอย&quot;&lt;br&gt;โดยจะต้องมีสินค้าดังนี้&lt;br&gt;&lt;u&gt;ประเภทน้ำ&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ข&lt;/span&gt;นม&lt;/u&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- โค้ก กระป๋องละ 10 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- เมล็ดทานตะวัน 13 บาท&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- น้ำเขียว กระป๋องละ 12 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- ถั่วแปบ 20 บาท&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- อเมริกาโน่ 30 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- จิ้นส้มหมก 15 บาท&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- ลาเต้ หวานเจี๊ยบ 35 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;สิ่งที่ระบบควรจะทำได้&lt;/u&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- ลูกค้าเลือกสินค้า, ระบบจะต้องรวมยอดขาย และรวมรายการสินค้าทั้งหมดที่ลูกค้าเลือก&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- สรุปยอดว่าเหลือเงินในตู้อีกเท่าไหร่ เหลือเหรียญอะไรบ้าง? ธนบัตรอะไรบ้าง? อย่างละเท่าไหร่?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="mvioNwK95yMqdUQ73LqQ-70" vertex="1">
                     <mxGeometry x="25" y="30" width="580" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="154" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;cal จำนวน&lt;span style=&quot;color: rgb(63, 63, 63); text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;เหรียญ และธนบัตร&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+                <mxCell id="154" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;cal จำนวน&lt;span style=&quot;color: rgb(63, 63, 63); text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;เหรียญ และธนบัตร&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
                     <mxGeometry x="1120" y="40" width="430.97" height="980" as="geometry"/>
                 </mxCell>
-                <mxCell id="123" value="" style="edgeStyle=none;html=1;" edge="1" parent="154" source="116" target="122">
+                <mxCell id="123" value="" style="edgeStyle=none;html=1;" parent="154" source="116" target="122" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="116" value="int C = (ค่า int ),m = 0,ฺ B1000&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;= 0, B500&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;= 0, B100&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;= 0,&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; B50 = 0, B20 = 0 , B1 = 0&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="154">
+                <mxCell id="116" value="int C = (ค่า int ),m = 0,ฺ B1000&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;= 0, B500&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;= 0, B100&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;= 0,&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; B50 = 0, B20 = 0 , B1 = 0&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="154" vertex="1">
                     <mxGeometry x="49.02999999999997" y="180" width="290.06" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="119" value="" style="edgeStyle=none;html=1;" edge="1" parent="154" source="117" target="116">
+                <mxCell id="119" value="" style="edgeStyle=none;html=1;" parent="154" source="117" target="116" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="117" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น function&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="154">
+                <mxCell id="117" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น function&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="154" vertex="1">
                     <mxGeometry x="130.05999999999995" y="125" width="130" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="125" value="" style="edgeStyle=none;html=1;" edge="1" parent="154" source="122" target="124">
+                <mxCell id="125" value="" style="edgeStyle=none;html=1;" parent="154" source="122" target="124" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="122" value="รับค่า C จาก function ที่รับเข่ามา" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="154">
+                <mxCell id="122" value="รับค่า C จาก function ที่รับเข่ามา" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="154" vertex="1">
                     <mxGeometry x="100.55999999999995" y="259" width="187" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="155" value="" style="edgeStyle=none;html=1;" edge="1" parent="154" source="124" target="126">
+                <mxCell id="155" value="" style="edgeStyle=none;html=1;" parent="154" source="124" target="126" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="124" value="B1000 = m/1000&lt;div&gt;m = C % 1000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B500 = m/500&lt;/span&gt;&lt;div&gt;m = m % 500&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B100 =&amp;nbsp; m/100&lt;/span&gt;&lt;div&gt;m = m % 100&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B50 = m/50&lt;/span&gt;&lt;div&gt;m = m % 50&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B20 = m/20&lt;/span&gt;&lt;div&gt;m = m % 20&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B10 = m/10&lt;/span&gt;&lt;div&gt;m = m % 10&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B5 = m/5&lt;/span&gt;&lt;div&gt;m = m % 5&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B5 = m/5&lt;/span&gt;&lt;div style=&quot;color: rgb(63, 63, 63);&quot;&gt;m = m % 5&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B2 = m/2&lt;/span&gt;&lt;div style=&quot;color: rgb(63, 63, 63);&quot;&gt;m = m % 2&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63);&quot;&gt;&lt;div style=&quot;color: rgb(63, 63, 63);&quot;&gt;B1 = m&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="154">
+                <mxCell id="124" value="B1000 = m/1000&lt;div&gt;m = C % 1000&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B500 = m/500&lt;/span&gt;&lt;div&gt;m = m % 500&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B100 =&amp;nbsp; m/100&lt;/span&gt;&lt;div&gt;m = m % 100&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B50 = m/50&lt;/span&gt;&lt;div&gt;m = m % 50&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B20 = m/20&lt;/span&gt;&lt;div&gt;m = m % 20&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B10 = m/10&lt;/span&gt;&lt;div&gt;m = m % 10&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B5 = m/5&lt;/span&gt;&lt;div&gt;m = m % 5&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B5 = m/5&lt;/span&gt;&lt;div style=&quot;color: rgb(63, 63, 63);&quot;&gt;m = m % 5&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;B2 = m/2&lt;/span&gt;&lt;div style=&quot;color: rgb(63, 63, 63);&quot;&gt;m = m % 2&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(63, 63, 63);&quot;&gt;&lt;div style=&quot;color: rgb(63, 63, 63);&quot;&gt;B1 = m&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="154" vertex="1">
                     <mxGeometry x="144.54999999999995" y="335" width="99.03" height="420" as="geometry"/>
                 </mxCell>
-                <mxCell id="128" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;สิ้นสุด function&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="154">
+                <mxCell id="128" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;สิ้นสุด function&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="154" vertex="1">
                     <mxGeometry x="136.30999999999995" y="930" width="130" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="156" value="" style="edgeStyle=none;html=1;" edge="1" parent="154" source="126" target="128">
+                <mxCell id="156" value="" style="edgeStyle=none;html=1;" parent="154" source="126" target="128" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="126" value="แสดงค่าแต่ละแบงค์&lt;div&gt;B1000 ,B500 ,B100 ,B50 ,B20 ,B10 ,B5 ,B2 ,B1&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="154">
+                <mxCell id="126" value="แสดงค่าแต่ละแบงค์&lt;div&gt;B1000 ,B500 ,B100 ,B50 ,B20 ,B10 ,B5 ,B2 ,B1&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="154" vertex="1">
                     <mxGeometry x="58.06" y="780" width="286.5" height="124" as="geometry"/>
                 </mxCell>
-                <mxCell id="213" value="Drinks" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+                <mxCell id="213" value="Drinks" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
                     <mxGeometry x="1120" y="1040" width="510" height="760" as="geometry"/>
                 </mxCell>
-                <mxCell id="266" style="edgeStyle=none;html=1;" edge="1" parent="213" source="215" target="265">
+                <mxCell id="266" style="edgeStyle=none;html=1;" parent="213" source="215" target="265" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="215" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น function&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="213">
+                <mxCell id="215" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น function&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="213" vertex="1">
                     <mxGeometry x="140.54999999999995" y="40" width="130" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="216" value="" style="edgeStyle=none;html=1;" edge="1" parent="213" source="220" target="225">
+                <mxCell id="216" value="" style="edgeStyle=none;html=1;" parent="213" source="220" target="225" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="217" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="216">
+                <mxCell id="217" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="216" vertex="1" connectable="0">
                     <mxGeometry x="-0.4444" y="-1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="218" value="" style="edgeStyle=none;html=1;" edge="1" parent="213" source="220" target="237">
+                <mxCell id="218" value="" style="edgeStyle=none;html=1;" parent="213" source="220" target="237" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="219" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="218">
+                <mxCell id="219" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="218" vertex="1" connectable="0">
                     <mxGeometry x="-0.2384" y="-1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="220" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือกโค้ก?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="213">
+                <mxCell id="220" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือกโค้ก?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="213" vertex="1">
                     <mxGeometry x="152.44" y="141" width="110.22" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="221" value="" style="edgeStyle=none;html=1;" edge="1" parent="213" source="225" target="230">
+                <mxCell id="221" value="" style="edgeStyle=none;html=1;" parent="213" source="225" target="230" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="222" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="221">
+                <mxCell id="222" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="221" vertex="1" connectable="0">
                     <mxGeometry x="-0.2011" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="223" value="" style="edgeStyle=none;html=1;" edge="1" parent="213" source="225" target="239">
+                <mxCell id="223" value="" style="edgeStyle=none;html=1;" parent="213" source="225" target="239" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="224" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="223">
+                <mxCell id="224" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="223" vertex="1" connectable="0">
                     <mxGeometry x="-0.2351" y="1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="225" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;น้ำเขียว?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="213">
+                <mxCell id="225" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;น้ำเขียว?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="213" vertex="1">
                     <mxGeometry x="152.44000000000005" y="241" width="110.22" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="226" value="" style="edgeStyle=none;html=1;" edge="1" parent="213" source="230" target="235">
+                <mxCell id="226" value="" style="edgeStyle=none;html=1;" parent="213" source="230" target="235" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="227" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="226">
+                <mxCell id="227" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="226" vertex="1" connectable="0">
                     <mxGeometry x="-0.1994" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="228" value="" style="edgeStyle=none;html=1;" edge="1" parent="213" source="230" target="241">
+                <mxCell id="228" value="" style="edgeStyle=none;html=1;" parent="213" source="230" target="241" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="229" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="228">
+                <mxCell id="229" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="228" vertex="1" connectable="0">
                     <mxGeometry x="-0.333" y="2" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="230" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&amp;nbsp;อเมริกาโน่?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="213">
+                <mxCell id="230" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&amp;nbsp;อเมริกาโน่?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="213" vertex="1">
                     <mxGeometry x="152.44000000000005" y="347" width="110.22" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="231" value="" style="edgeStyle=none;html=1;" edge="1" parent="213" source="235" target="243">
+                <mxCell id="231" value="" style="edgeStyle=none;html=1;" parent="213" source="235" target="243" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="232" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="231">
+                <mxCell id="232" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="231" vertex="1" connectable="0">
                     <mxGeometry x="-0.2574" y="1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="233" value="" style="edgeStyle=none;html=1;" edge="1" parent="213" source="235" target="244">
+                <mxCell id="233" value="" style="edgeStyle=none;html=1;" parent="213" source="235" target="244" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="234" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="233">
+                <mxCell id="234" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="233" vertex="1" connectable="0">
                     <mxGeometry x="-0.096" y="2" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="235" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;ลาเต้ หวานเจี๊ยบ?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="213">
+                <mxCell id="235" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;ลาเต้ หวานเจี๊ยบ?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="213" vertex="1">
                     <mxGeometry x="153.44000000000005" y="444" width="110.22" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="236" style="edgeStyle=none;html=1;entryX=0.639;entryY=0.933;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="213" source="237" target="248">
+                <mxCell id="236" style="edgeStyle=none;html=1;entryX=0.639;entryY=0.933;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="213" source="237" target="248" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="470" y="176"/>
@@ -810,10 +822,10 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="237" value="กำหนดให้&lt;div&gt;x = 10&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="213">
+                <mxCell id="237" value="กำหนดให้&lt;div&gt;x = 10&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="213" vertex="1">
                     <mxGeometry x="319" y="160" width="110" height="32" as="geometry"/>
                 </mxCell>
-                <mxCell id="238" style="edgeStyle=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="213" source="239" target="248">
+                <mxCell id="238" style="edgeStyle=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="213" source="239" target="248" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="429" y="608" as="targetPoint"/>
                         <Array as="points">
@@ -823,10 +835,10 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="239" value="กำหนดให้&lt;div&gt;x = 20&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="213">
+                <mxCell id="239" value="กำหนดให้&lt;div&gt;x = 20&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="213" vertex="1">
                     <mxGeometry x="319" y="260" width="110" height="32" as="geometry"/>
                 </mxCell>
-                <mxCell id="240" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="213" source="241" target="248">
+                <mxCell id="240" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="213" source="241" target="248" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="449" y="382"/>
@@ -834,10 +846,10 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="241" value="กำหนดให้&lt;div&gt;x = 30&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="213">
+                <mxCell id="241" value="กำหนดให้&lt;div&gt;x = 30&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="213" vertex="1">
                     <mxGeometry x="319" y="366" width="110" height="32" as="geometry"/>
                 </mxCell>
-                <mxCell id="242" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.872;entryY=0.223;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="213" source="243" target="248">
+                <mxCell id="242" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.872;entryY=0.223;entryDx=0;entryDy=0;entryPerimeter=0;" parent="213" source="243" target="248" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="439" y="479"/>
@@ -846,133 +858,133 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="243" value="กำหนดให้&lt;div&gt;x = 35&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="213">
+                <mxCell id="243" value="กำหนดให้&lt;div&gt;x = 35&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="213" vertex="1">
                     <mxGeometry x="319" y="463" width="110" height="32" as="geometry"/>
                 </mxCell>
-                <mxCell id="244" value="ย้อนกลับไปหน้าก่อน" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="213">
+                <mxCell id="244" value="ย้อนกลับไปหน้าก่อน" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="213" vertex="1">
                     <mxGeometry x="147.55000000000007" y="553" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="245" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;สิ้นสุด function&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="213">
+                <mxCell id="245" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;สิ้นสุด function&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="213" vertex="1">
                     <mxGeometry x="143.44000000000005" y="688" width="130" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="246" value="" style="edgeStyle=none;html=1;" edge="1" parent="213" source="248" target="245">
+                <mxCell id="246" value="" style="edgeStyle=none;html=1;" parent="213" source="248" target="245" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="247" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="213" source="244" target="249">
+                <mxCell id="247" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="213" source="244" target="249" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="100" y="583"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="248" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="213">
+                <mxCell id="248" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" parent="213" vertex="1">
                     <mxGeometry x="197.54999999999995" y="648" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="249" value="R" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="213">
+                <mxCell id="249" value="R" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" parent="213" vertex="1">
                     <mxGeometry x="90" y="48" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="250" value="เชื่อมไปยังตัวข้างนอก" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="213">
+                <mxCell id="250" value="เชื่อมไปยังตัวข้างนอก" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="213" vertex="1">
                     <mxGeometry x="-110" y="40" width="167.56" height="36" as="geometry"/>
                 </mxCell>
-                <mxCell id="251" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="213">
+                <mxCell id="251" value="" style="endArrow=none;html=1;rounded=0;" parent="213" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="60" y="93" as="sourcePoint"/>
                         <mxPoint x="60" y="30" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="252" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="213">
+                <mxCell id="252" value="" style="endArrow=none;html=1;rounded=0;" parent="213" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="60" y="93" as="sourcePoint"/>
                         <mxPoint x="10" y="93" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="253" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="213" source="249">
+                <mxCell id="253" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="213" source="249" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="110" y="57.799999999999955" as="sourcePoint"/>
                         <mxPoint x="60" y="57.799999999999955" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="254" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="213">
+                <mxCell id="254" value="" style="endArrow=none;html=1;rounded=0;" parent="213" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="60" y="30" as="sourcePoint"/>
                         <mxPoint x="10" y="30" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="268" style="edgeStyle=none;html=1;" edge="1" parent="213" source="265" target="220">
+                <mxCell id="268" style="edgeStyle=none;html=1;" parent="213" source="265" target="220" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="265" value="กำหนดให้&lt;div&gt;x = 0&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="213">
+                <mxCell id="265" value="กำหนดให้&lt;div&gt;x = 0&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="213" vertex="1">
                     <mxGeometry x="150.54999999999995" y="90" width="110" height="32" as="geometry"/>
                 </mxCell>
-                <mxCell id="158" value="Snacks" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;startSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+                <mxCell id="158" value="Snacks" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;startSize=23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
                     <mxGeometry x="1125" y="1820" width="500" height="670" as="geometry"/>
                 </mxCell>
-                <mxCell id="262" value="" style="edgeStyle=none;html=1;" edge="1" parent="158" source="160" target="261">
+                <mxCell id="262" value="" style="edgeStyle=none;html=1;" parent="158" source="160" target="261" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="160" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น function&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="158">
+                <mxCell id="160" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น function&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="158" vertex="1">
                     <mxGeometry x="142.54999999999995" y="40" width="130" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="166" value="" style="edgeStyle=none;html=1;" edge="1" parent="158" source="161" target="165">
+                <mxCell id="166" value="" style="edgeStyle=none;html=1;" parent="158" source="161" target="165" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="171" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="166">
+                <mxCell id="171" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="166" vertex="1" connectable="0">
                     <mxGeometry x="-0.4444" y="-1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="175" value="" style="edgeStyle=none;html=1;" edge="1" parent="158" source="161" target="174">
+                <mxCell id="175" value="" style="edgeStyle=none;html=1;" parent="158" source="161" target="174" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="182" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="175">
+                <mxCell id="182" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="175" vertex="1" connectable="0">
                     <mxGeometry x="-0.2384" y="-1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="161" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เมล็ดทานตะวัน?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="158">
+                <mxCell id="161" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เมล็ดทานตะวัน?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="158" vertex="1">
                     <mxGeometry x="153.44" y="136" width="110.22" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="168" value="" style="edgeStyle=none;html=1;" edge="1" parent="158" source="165" target="167">
+                <mxCell id="168" value="" style="edgeStyle=none;html=1;" parent="158" source="165" target="167" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="172" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="168">
+                <mxCell id="172" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="168" vertex="1" connectable="0">
                     <mxGeometry x="-0.2011" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="181" value="" style="edgeStyle=none;html=1;" edge="1" parent="158" source="165" target="176">
+                <mxCell id="181" value="" style="edgeStyle=none;html=1;" parent="158" source="165" target="176" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="183" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="181">
+                <mxCell id="183" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="181" vertex="1" connectable="0">
                     <mxGeometry x="-0.2351" y="1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="165" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;จิ้นส้มหมก?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="158">
+                <mxCell id="165" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;จิ้นส้มหมก?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="158" vertex="1">
                     <mxGeometry x="153.44000000000005" y="236" width="110.22" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="170" value="" style="edgeStyle=none;html=1;" edge="1" parent="158" source="167">
+                <mxCell id="170" value="" style="edgeStyle=none;html=1;" parent="158" source="167" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="209.19152233829573" y="439.2276668147274" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="173" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="170">
+                <mxCell id="173" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="170" vertex="1" connectable="0">
                     <mxGeometry x="-0.1994" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="180" value="" style="edgeStyle=none;html=1;" edge="1" parent="158" source="167" target="177">
+                <mxCell id="180" value="" style="edgeStyle=none;html=1;" parent="158" source="167" target="177" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="184" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="180">
+                <mxCell id="184" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="180" vertex="1" connectable="0">
                     <mxGeometry x="-0.333" y="2" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="167" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;ถั่วแปบ&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="158">
+                <mxCell id="167" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;ถั่วแปบ&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="158" vertex="1">
                     <mxGeometry x="153.44000000000005" y="342" width="110.22" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="196" style="edgeStyle=none;html=1;entryX=0.639;entryY=0.933;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="158" source="174" target="193">
+                <mxCell id="196" style="edgeStyle=none;html=1;entryX=0.639;entryY=0.933;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="158" source="174" target="193" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="485" y="170"/>
@@ -981,10 +993,10 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="174" value="กำหนดให้&lt;div&gt;x = 13&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="158">
+                <mxCell id="174" value="กำหนดให้&lt;div&gt;x = 13&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="158" vertex="1">
                     <mxGeometry x="320" y="155" width="110" height="32" as="geometry"/>
                 </mxCell>
-                <mxCell id="197" style="edgeStyle=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="158" source="176" target="193">
+                <mxCell id="197" style="edgeStyle=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="158" source="176" target="193" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="430" y="560" as="targetPoint"/>
                         <Array as="points">
@@ -994,10 +1006,10 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="176" value="กำหนดให้&lt;div&gt;x = 15&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="158">
+                <mxCell id="176" value="กำหนดให้&lt;div&gt;x = 15&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="158" vertex="1">
                     <mxGeometry x="320" y="255" width="110" height="32" as="geometry"/>
                 </mxCell>
-                <mxCell id="198" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="158" source="177" target="193">
+                <mxCell id="198" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="158" source="177" target="193" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="455" y="377"/>
@@ -1005,62 +1017,62 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="177" value="กำหนดให้&lt;div&gt;x = 20&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="158">
+                <mxCell id="177" value="กำหนดให้&lt;div&gt;x = 20&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="158" vertex="1">
                     <mxGeometry x="320" y="361" width="110" height="32" as="geometry"/>
                 </mxCell>
-                <mxCell id="189" value="ย้อนกลับไปหน้าก่อน" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="158">
+                <mxCell id="189" value="ย้อนกลับไปหน้าก่อน" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="158" vertex="1">
                     <mxGeometry x="155.44000000000005" y="440" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="192" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;สิ้นสุด function&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="158">
+                <mxCell id="192" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;สิ้นสุด function&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="158" vertex="1">
                     <mxGeometry x="147.44000000000005" y="563" width="130" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="195" value="" style="edgeStyle=none;html=1;" edge="1" parent="158" source="193" target="192">
+                <mxCell id="195" value="" style="edgeStyle=none;html=1;" parent="158" source="193" target="192" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="201" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="158" source="189" target="200">
+                <mxCell id="201" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="158" source="189" target="200" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="100" y="470"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="193" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="158">
+                <mxCell id="193" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" parent="158" vertex="1">
                     <mxGeometry x="201.54999999999995" y="523" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="200" value="R" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="158">
+                <mxCell id="200" value="R" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" parent="158" vertex="1">
                     <mxGeometry x="90" y="48" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="202" value="เชื่อมไปยังตัวข้างนอก" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="158">
+                <mxCell id="202" value="เชื่อมไปยังตัวข้างนอก" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="158" vertex="1">
                     <mxGeometry x="-110" y="40" width="167.56" height="36" as="geometry"/>
                 </mxCell>
-                <mxCell id="204" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="158">
+                <mxCell id="204" value="" style="endArrow=none;html=1;rounded=0;" parent="158" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="60" y="93" as="sourcePoint"/>
                         <mxPoint x="60" y="30" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="205" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="158">
+                <mxCell id="205" value="" style="endArrow=none;html=1;rounded=0;" parent="158" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="60" y="93" as="sourcePoint"/>
                         <mxPoint x="10" y="93" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="206" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="158" source="200">
+                <mxCell id="206" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="158" source="200" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="110" y="57.799999999999955" as="sourcePoint"/>
                         <mxPoint x="60" y="57.799999999999955" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="207" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="158">
+                <mxCell id="207" value="" style="endArrow=none;html=1;rounded=0;" parent="158" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="60" y="30" as="sourcePoint"/>
                         <mxPoint x="10" y="30" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="264" style="edgeStyle=none;html=1;" edge="1" parent="158" source="261" target="161">
+                <mxCell id="264" style="edgeStyle=none;html=1;" parent="158" source="261" target="161" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="261" value="กำหนดให้&lt;div&gt;x = 0&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="158">
+                <mxCell id="261" value="กำหนดให้&lt;div&gt;x = 0&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="158" vertex="1">
                     <mxGeometry x="152.54999999999995" y="87" width="110" height="32" as="geometry"/>
                 </mxCell>
             </root>
