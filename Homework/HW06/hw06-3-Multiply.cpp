@@ -13,8 +13,8 @@ int main () {
     for (y = start_num ; y <= end_num ; y++) {  // แกน Y เพิ่ม
         for (x = 1 ; x <= 9 ; x++) { // แกน X เพิ่ม
             printf("%d x %d = %d\n", y, x, y * x);
-        }
+        }//end for2
         printf("\n");
-    }
+    }//end for1
     return 0; 
 }

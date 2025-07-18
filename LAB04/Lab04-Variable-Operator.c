@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main () { 
-    char Employees_ID [10]= "" ;
+    char Employees_ID [11]= "" ;
     float salary_per_hr = 0.0f , hr_working = 0.0f , cal_salary = 0.0f ;
 
     printf("Input the Employees ID(Max. 10 chars):\n") ;

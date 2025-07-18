@@ -33,7 +33,7 @@ int main () {
     printf("Enter your score : ") ;
     scanf("%d", &score) ;
 
-    switch (score / 5) {
+    switch (score / 5) { //หาร 5 เพราะ score แต่ละครั้งห่างกัน 5 score
         case 10://50-54
             printf("D !"); 
             break;
@@ -52,7 +52,7 @@ int main () {
         case 15://75-79
             printf("B+ !");
             break;
-        case 16:
+        case 16:/*  case 16 - 20 socere 80 up */
         case 17:
         case 18:
         case 19:
@@ -60,10 +60,9 @@ int main () {
             printf("A !");
             break;
 
-        default:
+        default: // score < 50
             printf("F !");
             break;
     }
-
-
+    return 0 ;
 }

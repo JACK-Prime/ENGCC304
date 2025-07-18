@@ -7,7 +7,7 @@ int main () {
     int N = 0, check;
 
     printf("Enter number: ");
-    check = scanf("%d",&N);
+    check = scanf("%d",&N); //ถ้าใส่นอกเหนือพวก %d จะผิด 
 
     if ( (N % 2) != 0) {
         printf("Series:  ");
