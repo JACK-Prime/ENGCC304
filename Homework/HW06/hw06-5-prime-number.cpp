@@ -16,18 +16,22 @@
 */
 #include <stdio.h>
 int main () {
-    int num = 0 , i = 0 , j = 0 ;
+    int i = 0 ;
+    int num = 0 , count = 0 , check = 1 ;
 
     printf("Enter number : ") ;
     scanf("%d",&num) ;
     
     for (i = num ; i >= 2 ; i--) {
-        if (i == 2 || i == 3 || i == 5 || i == 7){
-                printf("%d ",i);
+
+        for (count = 2 ; count < i ; count++){
+            if (i % count == 0) {
+                check = 0 ;
+                break;
             }
-        for (;i % 2 > 0 && i % 3 > 0 && i % 5 > 0 && i % 7 > 0 ;) {
+        }
+        if (check){
             printf("%d ",i);
-            break;
         }
     }
     return 0 ;
