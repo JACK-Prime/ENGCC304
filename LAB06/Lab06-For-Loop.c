@@ -9,16 +9,16 @@ int main () {
     printf("Enter number: ");
     check = scanf("%d",&N); //ถ้าใส่นอกเหนือพวก %d จะผิด 
 
-    if ( (N % 2) != 0) {
+    if (check == 0) {
+        printf("Invalid input(number only!!)");
+    }
+    else if ( (N % 2) != 0) {
         printf("Series:  ");
         for (int i = 1 ; i <= N ; i++) {
             if ((i % 2) != 0) {
                 printf("%d ",i); 
             }
         }
-    }
-    else if (check == 0) {
-        printf("Invalid input");
     }
     else {
         printf("Series:  ");
