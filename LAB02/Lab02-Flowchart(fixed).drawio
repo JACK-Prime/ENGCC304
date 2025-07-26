@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-        <mxGraphModel dx="1604" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1657" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -455,7 +455,7 @@
                 <mxCell id="518" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item5_rp == 1)&lt;/span&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="337" vertex="1">
                     <mxGeometry x="300.11" y="707" width="177" height="67" as="geometry"/>
                 </mxCell>
-                <mxCell id="1183" value="" style="edgeStyle=none;html=1;" edge="1" parent="337" source="526" target="1179">
+                <mxCell id="1183" value="" style="edgeStyle=none;html=1;" parent="337" source="526" target="1179" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="526" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; แสดงรายการ&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1) โค้ก กระป๋องละ 10 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;5)&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;เมล็ดทานตะวัน 13 บาท&lt;/span&gt;&lt;br style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2)&amp;nbsp;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;น้ำเขียว กระป๋องละ 12 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;6) ถั่วแปบ 20 บาท&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3) อเมริกาโน่ 30 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;7)&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;จิ้นส้มหมก 15 บาm&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4) ลาเต้ หวานเจี๊ยบ 35 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;.&amp;gt;&amp;gt;&amp;gt;.input integer only!!!!!!&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" parent="337" vertex="1">
@@ -745,7 +745,7 @@
                 <mxCell id="736" value="แสดง &quot;สินค้านี้คุณไม่ได้เลือกไว้&quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="337" vertex="1">
                     <mxGeometry x="468" y="460" width="184" height="33" as="geometry"/>
                 </mxCell>
-                <mxCell id="1174" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="337" source="1146" target="396">
+                <mxCell id="1174" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="337" source="1146" target="396" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="560" y="105"/>
@@ -761,21 +761,21 @@
                         <mxPoint x="1180" y="2173" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1175" style="edgeStyle=none;html=1;" edge="1" parent="337" source="1176" target="1179">
+                <mxCell id="1175" style="edgeStyle=none;html=1;" parent="337" source="1176" target="1179" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="1176" value="รับต่า choice" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="337">
+                <mxCell id="1176" value="รับต่า choice" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="337" vertex="1">
                     <mxGeometry x="174" y="329.99999999999994" width="136" height="33" as="geometry"/>
                 </mxCell>
-                <mxCell id="1177" value="" style="edgeStyle=none;html=1;" edge="1" parent="337" source="1179" target="1181">
+                <mxCell id="1177" value="" style="edgeStyle=none;html=1;" parent="337" source="1179" target="1181" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="1178" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1177">
+                <mxCell id="1178" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1177" vertex="1" connectable="0">
                     <mxGeometry x="-0.3962" y="-1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1184" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="337" source="1179" target="344">
+                <mxCell id="1184" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="337" source="1179" target="344" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="330" y="417"/>
@@ -784,30 +784,30 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1185" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1184">
+                <mxCell id="1185" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1184" vertex="1" connectable="0">
                     <mxGeometry x="-0.2316" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1179" value="รับค่าเป็น integer หรือไม่?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="337">
+                <mxCell id="1179" value="รับค่าเป็น integer หรือไม่?" style="rhombus;whiteSpace=wrap;html=1;" parent="337" vertex="1">
                     <mxGeometry x="167" y="386.5" width="150" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="1180" value="" style="edgeStyle=none;html=1;" edge="1" parent="337" source="1181" target="1182">
+                <mxCell id="1180" value="" style="edgeStyle=none;html=1;" parent="337" source="1181" target="1182" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="1189" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="337" source="1181" target="1186">
+                <mxCell id="1189" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="337" source="1181" target="1186" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="1181" value="แสดง &quot;Invalid input&quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="337">
+                <mxCell id="1181" value="แสดง &quot;Invalid input&quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="337" vertex="1">
                     <mxGeometry x="175" y="480" width="136" height="33" as="geometry"/>
                 </mxCell>
-                <mxCell id="1182" value="Clear buffer with getchar()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="337">
+                <mxCell id="1182" value="Clear buffer with getchar()" style="rounded=0;whiteSpace=wrap;html=1;" parent="337" vertex="1">
                     <mxGeometry x="184" y="535" width="120" height="36.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="1186" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="337">
+                <mxCell id="1186" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="337" vertex="1">
                     <mxGeometry x="20" y="486" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="1187" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="337" source="390" target="1186">
+                <mxCell id="1187" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="337" source="390" target="1186" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="1341" y="145" as="targetPoint"/>
                         <Array as="points">
@@ -816,12 +816,12 @@
                         <mxPoint x="1261" y="1674" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1188" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1187">
+                <mxCell id="1188" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1187" vertex="1" connectable="0">
                     <mxGeometry x="-0.9573" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1191" value="check รับ ค่า integer เท่านั้น&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="337">
+                <mxCell id="1191" value="check รับ ค่า integer เท่านั้น&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="337" vertex="1">
                     <mxGeometry x="343.5" y="390" width="100" height="213" as="geometry"/>
                 </mxCell>
                 <mxCell id="397" value="main function" style="swimlane;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -1202,8 +1202,8 @@
                 <mxCell id="1131" value="" style="edgeStyle=none;html=1;" parent="397" source="1129" target="423" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="1129" value="แสดง&lt;div&gt;กรุณาชำระเงิน&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="397" vertex="1">
-                    <mxGeometry x="314.56" y="1410" width="174.5" height="48" as="geometry"/>
+                <mxCell id="1129" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;แสดงยอดรวมของราคาสินค้า(sum)และ&lt;/span&gt;แสดง&lt;span style=&quot;background-color: transparent;&quot;&gt;กรุณาชำระเงิน&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="397" vertex="1">
+                    <mxGeometry x="296.96" y="1410" width="210" height="48" as="geometry"/>
                 </mxCell>
                 <mxCell id="1140" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="397" vertex="1">
                     <mxGeometry x="391.91" y="2347" width="20" height="20" as="geometry"/>
@@ -1425,7 +1425,7 @@
                 <mxCell id="939" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="891" vertex="1">
                     <mxGeometry x="230" y="1547.31" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="1152" style="edgeStyle=none;html=1;" edge="1" parent="891" source="941" target="1149">
+                <mxCell id="1152" style="edgeStyle=none;html=1;" parent="891" source="941" target="1149" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="941" value="รับต่า choice" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="891" vertex="1">
@@ -1467,7 +1467,7 @@
                 <mxCell id="949" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (item1_&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&amp;nbsp;&amp;gt; 0)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="891" vertex="1">
                     <mxGeometry x="300.11" y="708" width="177" height="67" as="geometry"/>
                 </mxCell>
-                <mxCell id="1160" value="" style="edgeStyle=none;html=1;" edge="1" parent="891" source="951" target="941">
+                <mxCell id="1160" value="" style="edgeStyle=none;html=1;" parent="891" source="951" target="941" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="951" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; แสดงรายการ&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1) โค้ก กระป๋องละ 10 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;5)&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;เมล็ดทานตะวัน 13 บาท&lt;/span&gt;&lt;br style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2)&amp;nbsp;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;น้ำเขียว กระป๋องละ 12 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;6) ถั่วแปบ 20 บาท&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3) อเมริกาโน่ 30 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;7)&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;จิ้นส้มหมก 15 บาท&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4) ลาเต้ หวานเจี๊ยบ 35 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;.&amp;gt;&amp;gt;&amp;gt;.input integer only!!!!!!&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" parent="891" vertex="1">
@@ -1760,7 +1760,7 @@
                 <mxCell id="1023" value="แสดง &quot;sold out&quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="891" vertex="1">
                     <mxGeometry x="492" y="518" width="136" height="33" as="geometry"/>
                 </mxCell>
-                <mxCell id="1169" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="891" source="1142" target="943">
+                <mxCell id="1169" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="891" source="1142" target="943" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="560" y="105"/>
@@ -1770,15 +1770,15 @@
                 <mxCell id="1142" value="break;" style="rounded=0;whiteSpace=wrap;html=1;" parent="891" vertex="1">
                     <mxGeometry x="535" y="460" width="50" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="1161" value="" style="edgeStyle=none;html=1;" edge="1" parent="891" source="1149" target="1156">
+                <mxCell id="1161" value="" style="edgeStyle=none;html=1;" parent="891" source="1149" target="1156" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="1162" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1161">
+                <mxCell id="1162" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1161" vertex="1" connectable="0">
                     <mxGeometry x="-0.3962" y="-1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1167" value="" style="edgeStyle=none;html=1;" edge="1" parent="891" source="1149" target="898">
+                <mxCell id="1167" value="" style="edgeStyle=none;html=1;" parent="891" source="1149" target="898" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="368.6100000000001" y="416.5" as="targetPoint"/>
                         <Array as="points">
@@ -1788,30 +1788,30 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1168" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1167">
+                <mxCell id="1168" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1167" vertex="1" connectable="0">
                     <mxGeometry x="-0.2017" y="2" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1149" value="รับค่าเป็น integer หรือไม่?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="891">
+                <mxCell id="1149" value="รับค่าเป็น integer หรือไม่?" style="rhombus;whiteSpace=wrap;html=1;" parent="891" vertex="1">
                     <mxGeometry x="166" y="386.5" width="150" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="1165" value="" style="edgeStyle=none;html=1;" edge="1" parent="891" source="1156" target="1163">
+                <mxCell id="1165" value="" style="edgeStyle=none;html=1;" parent="891" source="1156" target="1163" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="1156" value="แสดง &quot;Invalid input&quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="891">
+                <mxCell id="1156" value="แสดง &quot;Invalid input&quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="891" vertex="1">
                     <mxGeometry x="174" y="480" width="136" height="33" as="geometry"/>
                 </mxCell>
-                <mxCell id="1173" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="891" source="1163" target="1170">
+                <mxCell id="1173" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="891" source="1163" target="1170" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="1163" value="Clear buffer with getchar()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="891">
+                <mxCell id="1163" value="Clear buffer with getchar()" style="rounded=0;whiteSpace=wrap;html=1;" parent="891" vertex="1">
                     <mxGeometry x="183" y="535" width="120" height="36.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="1170" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="891">
+                <mxCell id="1170" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="891" vertex="1">
                     <mxGeometry x="20" y="543.25" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="1171" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="891" source="937" target="1170">
+                <mxCell id="1171" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="891" source="937" target="1170" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="409" y="155" as="targetPoint"/>
                         <Array as="points">
@@ -1820,12 +1820,12 @@
                         <mxPoint x="330" y="1685" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1172" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1171">
+                <mxCell id="1172" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1171" vertex="1" connectable="0">
                     <mxGeometry x="-0.9573" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1190" value="check รับ ค่า integer เท่านั้น&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="891">
+                <mxCell id="1190" value="check รับ ค่า integer เท่านั้น&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="891" vertex="1">
                     <mxGeometry x="389" y="340" width="100" height="240" as="geometry"/>
                 </mxCell>
             </root>
