@@ -22,12 +22,9 @@ int main() {
     int i = 0,j = 0 ;
     int binary[100];
 
-
     printf("Enter Hexadecimal: ") ;
     scanf("%s", hex) ;
-    
     decimal = strtol(hex, NULL, 16) ;// base 16 to base 10
-    printf("Decimal number is : %ld\n",decimal) ;
 
     while (decimal > 0) {
         binary[i] = decimal % 2;
