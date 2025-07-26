@@ -1,11 +1,11 @@
 <mxfile host="65bd71144e">
     <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-        <mxGraphModel dx="2083" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1604" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
                 <mxCell id="M7CGMbNuYNeq0SnUNNgH-6" value="ทบทวนสัญลักษณ์" style="swimlane;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                    <mxGeometry x="-720" y="20" width="640" height="290" as="geometry"/>
+                    <mxGeometry x="630" y="1880" width="640" height="290" as="geometry"/>
                 </mxCell>
                 <mxCell id="M7CGMbNuYNeq0SnUNNgH-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="M7CGMbNuYNeq0SnUNNgH-6" vertex="1">
                     <mxGeometry x="20" y="40" width="130" height="30" as="geometry"/>
@@ -165,13 +165,13 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="mvioNwK95yMqdUQ73LqQ-70" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;โจทย์ปัญหา&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                    <mxGeometry x="-720" y="320" width="640" height="240" as="geometry"/>
+                    <mxGeometry x="630" y="2180" width="640" height="240" as="geometry"/>
                 </mxCell>
                 <mxCell id="mvioNwK95yMqdUQ73LqQ-71" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot; style=&quot;font-size: 14px;&quot;&gt;จงเขียน Flowchart เพื่อแสดงขั้นตอนการทำงาน ของเครื่องขายน้ำอัตโนมัติที่ชื่อว่า &quot;ตะพาบลอย&quot;&lt;br&gt;โดยจะต้องมีสินค้าดังนี้&lt;br&gt;&lt;u&gt;ประเภทน้ำ&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ข&lt;/span&gt;นม&lt;/u&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- โค้ก กระป๋องละ 10 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- เมล็ดทานตะวัน 13 บาท&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- น้ำเขียว กระป๋องละ 12 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- ถั่วแปบ 20 บาท&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- อเมริกาโน่ 30 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- จิ้นส้มหมก 15 บาท&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- ลาเต้ หวานเจี๊ยบ 35 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;สิ่งที่ระบบควรจะทำได้&lt;/u&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- ลูกค้าเลือกสินค้า, ระบบจะต้องรวมยอดขาย และรวมรายการสินค้าทั้งหมดที่ลูกค้าเลือก&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- สรุปยอดว่าเหลือเงินในตู้อีกเท่าไหร่ เหลือเหรียญอะไรบ้าง? ธนบัตรอะไรบ้าง? อย่างละเท่าไหร่?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="mvioNwK95yMqdUQ73LqQ-70" vertex="1">
                     <mxGeometry x="25" y="30" width="580" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="154" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;cal จำนวน&lt;span style=&quot;color: rgb(63, 63, 63); text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;เหรียญ และธนบัตร (function)&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                    <mxGeometry x="-530" y="604" width="430.97" height="936" as="geometry"/>
+                <mxCell id="154" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;cal_BnC&lt;span style=&quot;color: rgb(63, 63, 63); text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp;(function)&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="174" y="1847" width="430.97" height="936" as="geometry"/>
                 </mxCell>
                 <mxCell id="123" value="" style="edgeStyle=none;html=1;" parent="154" source="116" target="122" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -208,8 +208,8 @@
                 <mxCell id="126" value="แสดงค่าแต่ละแบงค์&lt;div&gt;B1000 ,B500 ,B100 ,B50 ,B20 ,B10 ,B5 ,B2 ,B1&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="154" vertex="1">
                     <mxGeometry x="74.06" y="723" width="286.5" height="124" as="geometry"/>
                 </mxCell>
-                <mxCell id="337" value="list_remove&amp;nbsp; (function)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;strokeWidth=5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                    <mxGeometry x="970" y="1630" width="920" height="1554" as="geometry"/>
+                <mxCell id="337" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;list_remove&amp;nbsp; (function)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;strokeWidth=5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="1110" y="40" width="920" height="1790" as="geometry"/>
                 </mxCell>
                 <mxCell id="338" style="edgeStyle=none;html=1;" parent="337" source="396" target="365" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -228,7 +228,7 @@
                 <mxCell id="521" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="337" source="344" target="518" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="389" y="464"/>
+                            <mxPoint x="389" y="687"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -238,7 +238,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="344" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือกโค้ก?&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;if choice == 1&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="337" vertex="1">
-                    <mxGeometry x="184.89" y="427" width="110.22" height="70" as="geometry"/>
+                    <mxGeometry x="184.89" y="650" width="110.22" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="345" value="" style="edgeStyle=none;html=1;" parent="337" source="349" target="354" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -251,7 +251,7 @@
                 <mxCell id="531" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="337" source="349" target="528" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="390" y="575"/>
+                            <mxPoint x="390" y="798"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -261,7 +261,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="349" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;น้ำเขียว?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if choice == 2&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="337" vertex="1">
-                    <mxGeometry x="184.89000000000004" y="540" width="110.22" height="70" as="geometry"/>
+                    <mxGeometry x="184.89000000000004" y="763" width="110.22" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="350" value="" style="edgeStyle=none;html=1;" parent="337" source="354" target="359" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -274,7 +274,7 @@
                 <mxCell id="537" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="337" source="354" target="534" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="390" y="693"/>
+                            <mxPoint x="390" y="916"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -284,11 +284,11 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="354" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;อเมริกาโน่?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if choice == 3&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="337" vertex="1">
-                    <mxGeometry x="184.89000000000004" y="658" width="110.22" height="70" as="geometry"/>
+                    <mxGeometry x="184.89000000000004" y="881" width="110.22" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="357" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="337" source="359" target="370" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="240.2884615384616" y="890" as="targetPoint"/>
+                        <mxPoint x="240.2884615384616" y="1113" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="358" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="357" vertex="1" connectable="0">
@@ -299,7 +299,7 @@
                 <mxCell id="538" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="337" source="359" target="535" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="390" y="810"/>
+                            <mxPoint x="390" y="1033"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -309,7 +309,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="359" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;ลาเต้ หวานเจี๊ยบ?&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;if choice == 4&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="337" vertex="1">
-                    <mxGeometry x="185.89000000000004" y="776" width="110.22" height="70" as="geometry"/>
+                    <mxGeometry x="185.89000000000004" y="999" width="110.22" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="527" value="" style="edgeStyle=none;html=1;" parent="337" source="365" target="526" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -328,7 +328,7 @@
                 <mxCell id="539" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="337" source="370" target="536" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="390" y="930"/>
+                            <mxPoint x="390" y="1153"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -338,7 +338,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="370" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เมล็ดทานตะวัน?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;if choice == 5&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="337" vertex="1">
-                    <mxGeometry x="184.89000000000004" y="893" width="110.22" height="70" as="geometry"/>
+                    <mxGeometry x="184.89000000000004" y="1116" width="110.22" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="374" value="" style="edgeStyle=none;html=1;" parent="337" source="376" target="383" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -351,7 +351,7 @@
                 <mxCell id="544" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="337" source="376" target="543" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="391" y="1048"/>
+                            <mxPoint x="391" y="1271"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -361,14 +361,14 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="376" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;จิ้นส้มหมก?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if choice == 6&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="337" vertex="1">
-                    <mxGeometry x="184.89000000000016" y="1013" width="110.22" height="70" as="geometry"/>
+                    <mxGeometry x="184.89000000000016" y="1236" width="110.22" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="378" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;สิ้นสุด function list&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="337" vertex="1">
-                    <mxGeometry x="175.99999999999994" y="1491" width="130" height="30" as="geometry"/>
+                    <mxGeometry x="175.99999999999994" y="1714" width="130" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="381" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="337" source="383" target="387" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="240" y="1246.31" as="targetPoint"/>
+                        <mxPoint x="240" y="1469.31" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="548" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="381" vertex="1" connectable="0">
@@ -379,22 +379,22 @@
                 <mxCell id="547" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="337" source="383" target="546" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="394" y="1176"/>
+                            <mxPoint x="394" y="1399"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="383" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;ถั่วแปบ&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;if choice == 7&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="337" vertex="1">
-                    <mxGeometry x="184.89000000000016" y="1141" width="110.22" height="70" as="geometry"/>
+                    <mxGeometry x="184.89000000000016" y="1364" width="110.22" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="549" value="" style="edgeStyle=none;html=1;" parent="337" source="387" target="391" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="387" value="แสดง &quot;invalid input&quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="337" vertex="1">
-                    <mxGeometry x="172" y="1269.31" width="136" height="33" as="geometry"/>
+                    <mxGeometry x="172" y="1492.31" width="136" height="33" as="geometry"/>
                 </mxCell>
                 <mxCell id="388" value="" style="edgeStyle=none;html=1;" parent="337" target="378" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="241" y="1454.3099999999995" as="sourcePoint"/>
+                        <mxPoint x="241" y="1677.3099999999995" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="493" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="388" vertex="1" connectable="0">
@@ -402,34 +402,22 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="389" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="337" source="390" target="396" edge="1">
+                <mxCell id="389" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="337" source="1186" target="396" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="122" y="100" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="30" y="1410"/>
                             <mxPoint x="30" y="105"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="492" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="389" vertex="1" connectable="0">
-                    <mxGeometry x="-0.9573" relative="1" as="geometry">
-                        <mxPoint as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="390" value="while (choice != 1 &amp;amp;&amp;amp; choice != 2 ......จนถึง&amp;nbsp; &amp;amp;&amp;amp; choice != 7)" style="rhombus;whiteSpace=wrap;html=1;" parent="337" vertex="1">
-                    <mxGeometry x="150" y="1362.31" width="182" height="97" as="geometry"/>
+                <mxCell id="390" value="while (choice &amp;lt; 1 || choice &amp;gt; 7 )" style="rhombus;whiteSpace=wrap;html=1;" parent="337" vertex="1">
+                    <mxGeometry x="150" y="1586.31" width="182" height="97" as="geometry"/>
                 </mxCell>
                 <mxCell id="550" value="" style="edgeStyle=none;html=1;" parent="337" source="391" target="390" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="391" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="337" vertex="1">
-                    <mxGeometry x="230" y="1323.31" width="20" height="20" as="geometry"/>
-                </mxCell>
-                <mxCell id="393" value="" style="edgeStyle=none;html=1;" parent="337" source="394" target="344" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="394" value="รับต่า choice" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="337" vertex="1">
-                    <mxGeometry x="173" y="373.31" width="136" height="33" as="geometry"/>
+                    <mxGeometry x="230" y="1546.31" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="395" value="" style="edgeStyle=none;html=1;" parent="337" source="339" target="396" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -445,9 +433,9 @@
                 </mxCell>
                 <mxCell id="551" style="edgeStyle=none;html=1;strokeColor=#FF0000;" parent="337" source="518" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="560" as="targetPoint"/>
+                        <mxPoint x="550" y="783" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="389" y="560"/>
+                            <mxPoint x="389" y="783"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -465,9 +453,9 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="518" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item5_rp == 1)&lt;/span&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="337" vertex="1">
-                    <mxGeometry x="300.11" y="484" width="177" height="67" as="geometry"/>
+                    <mxGeometry x="300.11" y="707" width="177" height="67" as="geometry"/>
                 </mxCell>
-                <mxCell id="722" value="" style="edgeStyle=none;html=1;" parent="337" source="526" target="721" edge="1">
+                <mxCell id="1183" value="" style="edgeStyle=none;html=1;" edge="1" parent="337" source="526" target="1179">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="526" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; แสดงรายการ&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1) โค้ก กระป๋องละ 10 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;5)&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;เมล็ดทานตะวัน 13 บาท&lt;/span&gt;&lt;br style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2)&amp;nbsp;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;น้ำเขียว กระป๋องละ 12 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;6) ถั่วแปบ 20 บาท&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3) อเมริกาโน่ 30 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;7)&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;จิ้นส้มหมก 15 บาm&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4) ลาเต้ หวานเจี๊ยบ 35 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;.&amp;gt;&amp;gt;&amp;gt;.input integer only!!!!!!&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" parent="337" vertex="1">
@@ -475,10 +463,10 @@
                 </mxCell>
                 <mxCell id="553" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0505;" parent="337" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="670" as="targetPoint"/>
-                        <mxPoint x="388.6100000000001" y="658.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="550" y="893" as="targetPoint"/>
+                        <mxPoint x="388.6100000000001" y="881.0000000000005" as="sourcePoint"/>
                         <Array as="points">
-                            <mxPoint x="390" y="670"/>
+                            <mxPoint x="390" y="893"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -489,7 +477,7 @@
                 </mxCell>
                 <mxCell id="728" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="337" source="528" target="361" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="620" y="625" as="targetPoint"/>
+                        <mxPoint x="620" y="848" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="743" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="728" vertex="1" connectable="0">
@@ -498,7 +486,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="528" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (item2_rp&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&amp;nbsp;== 1)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="337" vertex="1">
-                    <mxGeometry x="300.11000000000024" y="591" width="177" height="67" as="geometry"/>
+                    <mxGeometry x="300.11000000000024" y="814" width="177" height="67" as="geometry"/>
                 </mxCell>
                 <mxCell id="730" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="337" source="534" target="362" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -509,7 +497,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="534" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (item3_rp&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&amp;nbsp;== 1)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="337" vertex="1">
-                    <mxGeometry x="301.1100000000001" y="709" width="177" height="67" as="geometry"/>
+                    <mxGeometry x="301.1100000000001" y="932" width="177" height="67" as="geometry"/>
                 </mxCell>
                 <mxCell id="731" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="337" source="535" target="363" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -520,7 +508,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="535" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (item4_rp&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&amp;nbsp;&amp;lt;= 1)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="337" vertex="1">
-                    <mxGeometry x="301.1100000000001" y="829" width="177" height="67" as="geometry"/>
+                    <mxGeometry x="301.1100000000001" y="1052" width="177" height="67" as="geometry"/>
                 </mxCell>
                 <mxCell id="732" value="" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="337" source="536" target="371" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -531,7 +519,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="536" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (item5_rp&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&amp;nbsp;&amp;lt;= 1)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="337" vertex="1">
-                    <mxGeometry x="302.1100000000001" y="947" width="177" height="67" as="geometry"/>
+                    <mxGeometry x="302.1100000000001" y="1170" width="177" height="67" as="geometry"/>
                 </mxCell>
                 <mxCell id="733" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="337" source="543" target="377" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -542,7 +530,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="543" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (item6_rp&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&amp;nbsp;== 1)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="337" vertex="1">
-                    <mxGeometry x="302.1100000000001" y="1069" width="177" height="67" as="geometry"/>
+                    <mxGeometry x="302.1100000000001" y="1292" width="177" height="67" as="geometry"/>
                 </mxCell>
                 <mxCell id="734" style="edgeStyle=none;html=1;" parent="337" source="546" target="384" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -553,14 +541,14 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="546" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (item7_rp&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&amp;nbsp;== 1)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="337" vertex="1">
-                    <mxGeometry x="305.0000000000002" y="1196.31" width="177" height="67" as="geometry"/>
+                    <mxGeometry x="305.0000000000002" y="1419.31" width="177" height="67" as="geometry"/>
                 </mxCell>
                 <mxCell id="555" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0505;" parent="337" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="788" as="targetPoint"/>
-                        <mxPoint x="388.6100000000001" y="776.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="550" y="1011" as="targetPoint"/>
+                        <mxPoint x="388.6100000000001" y="999.0000000000005" as="sourcePoint"/>
                         <Array as="points">
-                            <mxPoint x="390" y="788"/>
+                            <mxPoint x="390" y="1011"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -571,10 +559,10 @@
                 </mxCell>
                 <mxCell id="557" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0505;" parent="337" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="908" as="targetPoint"/>
-                        <mxPoint x="388.6100000000001" y="896.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="550" y="1131" as="targetPoint"/>
+                        <mxPoint x="388.6100000000001" y="1119.0000000000005" as="sourcePoint"/>
                         <Array as="points">
-                            <mxPoint x="390" y="908"/>
+                            <mxPoint x="390" y="1131"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -585,10 +573,10 @@
                 </mxCell>
                 <mxCell id="629" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0505;" parent="337" source="536" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="1025" as="targetPoint"/>
-                        <mxPoint x="388.6100000000001" y="1013.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="550" y="1248" as="targetPoint"/>
+                        <mxPoint x="388.6100000000001" y="1236.0000000000005" as="sourcePoint"/>
                         <Array as="points">
-                            <mxPoint x="390" y="1025"/>
+                            <mxPoint x="390" y="1248"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -599,10 +587,10 @@
                 </mxCell>
                 <mxCell id="631" style="edgeStyle=none;html=1;strokeColor=#FF0505;" parent="337" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="1148" as="targetPoint"/>
-                        <mxPoint x="390" y="1136" as="sourcePoint"/>
+                        <mxPoint x="550" y="1371" as="targetPoint"/>
+                        <mxPoint x="390" y="1359" as="sourcePoint"/>
                         <Array as="points">
-                            <mxPoint x="390" y="1148"/>
+                            <mxPoint x="390" y="1371"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -613,11 +601,11 @@
                 </mxCell>
                 <mxCell id="707" style="edgeStyle=none;html=1;strokeColor=#FF0505;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="337" source="546" target="714" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="1275.31" as="targetPoint"/>
-                        <mxPoint x="390" y="1270" as="sourcePoint"/>
+                        <mxPoint x="550" y="1498.31" as="targetPoint"/>
+                        <mxPoint x="390" y="1493" as="sourcePoint"/>
                         <Array as="points">
-                            <mxPoint x="394" y="1280"/>
-                            <mxPoint x="560" y="1280"/>
+                            <mxPoint x="394" y="1503"/>
+                            <mxPoint x="560" y="1503"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -626,148 +614,218 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="724" style="edgeStyle=none;html=1;strokeColor=#FF0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="337" source="709" target="736" edge="1">
+                <mxCell id="724" style="edgeStyle=none;html=1;strokeColor=#FF0000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="337" source="709" target="736" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="460" y="340" as="targetPoint"/>
+                        <mxPoint x="460" y="563" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="560" y="340"/>
+                            <mxPoint x="560" y="563"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="709" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="337" vertex="1">
-                    <mxGeometry x="550" y="551" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="550" y="774" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="720" value="" style="edgeStyle=none;html=1;strokeColor=#FF0202;" parent="337" source="710" target="709" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="710" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="337" vertex="1">
-                    <mxGeometry x="550" y="660" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="550" y="883" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="719" value="" style="edgeStyle=none;html=1;strokeColor=#FF0202;" parent="337" source="711" target="710" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="711" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="337" vertex="1">
-                    <mxGeometry x="550" y="778" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="550" y="1001" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="718" value="" style="edgeStyle=none;html=1;strokeColor=#FF0202;" parent="337" source="712" target="711" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="712" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="337" vertex="1">
-                    <mxGeometry x="550" y="898" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="550" y="1121" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="717" value="" style="edgeStyle=none;html=1;strokeColor=#FF0202;" parent="337" source="713" target="712" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="713" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="337" vertex="1">
-                    <mxGeometry x="550" y="1015" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="550" y="1238" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="716" value="" style="edgeStyle=none;html=1;strokeColor=#FF0202;" parent="337" source="714" target="713" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="714" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="337" vertex="1">
-                    <mxGeometry x="550" y="1139" width="20" height="20" as="geometry"/>
-                </mxCell>
-                <mxCell id="723" value="" style="edgeStyle=none;html=1;" parent="337" source="721" target="394" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="721" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="337" vertex="1">
-                    <mxGeometry x="230" y="330" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="550" y="1362" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="510" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="337" source="360" target="495" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="854.55" y="517.5"/>
+                            <mxPoint x="854.55" y="740.5"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="360" value="&lt;br&gt;&lt;div&gt;price = 10&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-family: Sarabun; text-align: left;&quot;&gt;break;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="337" vertex="1">
-                    <mxGeometry x="629" y="484" width="121.55" height="66" as="geometry"/>
+                    <mxGeometry x="629" y="707" width="121.55" height="66" as="geometry"/>
                 </mxCell>
                 <mxCell id="502" value="" style="edgeStyle=none;html=1;" parent="337" source="361" target="495" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="361" value="&lt;br&gt;&lt;div&gt;price = 20&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;break;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="337" vertex="1">
-                    <mxGeometry x="632" y="595.5" width="121.55" height="58" as="geometry"/>
+                <mxCell id="361" value="&lt;br&gt;&lt;div&gt;price = 12&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;break;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="337" vertex="1">
+                    <mxGeometry x="632" y="818.5" width="121.55" height="58" as="geometry"/>
                 </mxCell>
                 <mxCell id="501" value="" style="edgeStyle=none;html=1;" parent="337" source="362" target="499" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="362" value="&lt;br&gt;&lt;div&gt;price = 30&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;break;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="337" vertex="1">
-                    <mxGeometry x="626" y="714" width="131.55" height="58" as="geometry"/>
+                    <mxGeometry x="626" y="937" width="131.55" height="58" as="geometry"/>
                 </mxCell>
                 <mxCell id="509" value="" style="edgeStyle=none;html=1;" parent="337" source="363" target="385" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="363" value="&lt;br&gt;&lt;div&gt;price = 35&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;break;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="337" vertex="1">
-                    <mxGeometry x="626" y="835" width="131.55" height="56.5" as="geometry"/>
+                    <mxGeometry x="626" y="1058" width="131.55" height="56.5" as="geometry"/>
                 </mxCell>
                 <mxCell id="508" value="" style="edgeStyle=none;html=1;" parent="337" source="371" target="503" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="371" value="&lt;br&gt;&lt;div&gt;price = 13&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;break;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="337" vertex="1">
-                    <mxGeometry x="626" y="947.5" width="132.55" height="64.5" as="geometry"/>
+                    <mxGeometry x="626" y="1170.5" width="132.55" height="64.5" as="geometry"/>
                 </mxCell>
                 <mxCell id="507" value="" style="edgeStyle=none;html=1;" parent="337" source="377" target="504" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="377" value="&lt;br&gt;&lt;div&gt;price = 15&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;break;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="337" vertex="1">
-                    <mxGeometry x="627" y="1074" width="131.55" height="57" as="geometry"/>
+                    <mxGeometry x="627" y="1297" width="131.55" height="57" as="geometry"/>
                 </mxCell>
                 <mxCell id="506" value="" style="edgeStyle=none;html=1;" parent="337" source="384" target="505" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="384" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;price = 20&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-family: Sarabun; text-align: left;&quot;&gt;break;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="337" vertex="1">
-                    <mxGeometry x="624" y="1196.31" width="133.55" height="65.69" as="geometry"/>
+                    <mxGeometry x="624" y="1419.31" width="133.55" height="65.69" as="geometry"/>
                 </mxCell>
                 <mxCell id="513" value="" style="edgeStyle=none;html=1;" parent="337" source="385" target="503" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="385" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="337" vertex="1">
-                    <mxGeometry x="844.06" y="852.5" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="844.06" y="1075.5" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="511" value="" style="edgeStyle=none;html=1;" parent="337" source="495" target="499" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="495" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="337" vertex="1">
-                    <mxGeometry x="844.06" y="614.5" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="844.06" y="837.5" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="512" value="" style="edgeStyle=none;html=1;" parent="337" source="499" target="385" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="499" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="337" vertex="1">
-                    <mxGeometry x="844.06" y="733" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="844.06" y="956" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="514" value="" style="edgeStyle=none;html=1;" parent="337" source="503" target="504" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="503" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="337" vertex="1">
-                    <mxGeometry x="844.06" y="970.5" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="844.06" y="1193.5" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="515" value="" style="edgeStyle=none;html=1;" parent="337" source="504" target="505" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="504" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="337" vertex="1">
-                    <mxGeometry x="844.06" y="1092.5" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="844.06" y="1315.5" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="735" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="337" source="505" target="391" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="810" y="1460" as="targetPoint"/>
+                        <mxPoint x="810" y="1683" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="854" y="1333"/>
+                            <mxPoint x="854" y="1556"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="505" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="337" vertex="1">
-                    <mxGeometry x="844.06" y="1219.81" width="20" height="20" as="geometry"/>
-                </mxCell>
-                <mxCell id="737" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="337" source="736" target="721" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
+                    <mxGeometry x="844.06" y="1442.81" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="736" value="แสดง &quot;สินค้านี้คุณไม่ได้เลือกไว้&quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="337" vertex="1">
-                    <mxGeometry x="346" y="323.5" width="184" height="33" as="geometry"/>
+                    <mxGeometry x="468" y="460" width="184" height="33" as="geometry"/>
                 </mxCell>
-                <mxCell id="397" value="main function" style="swimlane;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                    <mxGeometry x="-40" y="30" width="930" height="2520" as="geometry"/>
+                <mxCell id="1174" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="337" source="1146" target="396">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="560" y="105"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1146" value="break;" style="rounded=0;whiteSpace=wrap;html=1;" parent="337" vertex="1">
+                    <mxGeometry x="535" y="360" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="1147" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="337" source="736" target="1146" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1306" y="2173" as="sourcePoint"/>
+                        <mxPoint x="1180" y="2173" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1175" style="edgeStyle=none;html=1;" edge="1" parent="337" source="1176" target="1179">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1176" value="รับต่า choice" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="337">
+                    <mxGeometry x="174" y="329.99999999999994" width="136" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="1177" value="" style="edgeStyle=none;html=1;" edge="1" parent="337" source="1179" target="1181">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1178" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1177">
+                    <mxGeometry x="-0.3962" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1184" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="337" source="1179" target="344">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="330" y="417"/>
+                            <mxPoint x="330" y="610"/>
+                            <mxPoint x="240" y="610"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1185" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1184">
+                    <mxGeometry x="-0.2316" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1179" value="รับค่าเป็น integer หรือไม่?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="337">
+                    <mxGeometry x="167" y="386.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1180" value="" style="edgeStyle=none;html=1;" edge="1" parent="337" source="1181" target="1182">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1189" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="337" source="1181" target="1186">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1181" value="แสดง &quot;Invalid input&quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="337">
+                    <mxGeometry x="175" y="480" width="136" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="1182" value="Clear buffer with getchar()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="337">
+                    <mxGeometry x="184" y="535" width="120" height="36.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="1186" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="337">
+                    <mxGeometry x="20" y="486" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="1187" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="337" source="390" target="1186">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1341" y="145" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="30" y="1635"/>
+                        </Array>
+                        <mxPoint x="1261" y="1674" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1188" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1187">
+                    <mxGeometry x="-0.9573" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1191" value="check รับ ค่า integer เท่านั้น&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="337">
+                    <mxGeometry x="343.5" y="390" width="100" height="213" as="geometry"/>
+                </mxCell>
+                <mxCell id="397" value="main function" style="swimlane;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="-780" y="40" width="930" height="2520" as="geometry"/>
                 </mxCell>
                 <mxCell id="398" value="" style="edgeStyle=none;html=1;" parent="397" source="399" target="486" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -794,7 +852,7 @@
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="410.89" y="234" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="540" y="420"/>
+                            <mxPoint x="540" y="422"/>
                             <mxPoint x="540" y="308"/>
                         </Array>
                     </mxGeometry>
@@ -807,14 +865,19 @@
                 <mxCell id="407" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="397" source="408" target="410" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="408" value="มีการตอบสนองของลูกค้า(ลูกค้ากดซื้อ)?" style="rhombus;whiteSpace=wrap;html=1;" parent="397" vertex="1">
+                <mxCell id="1148" value="Y(ใช่)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="407" vertex="1" connectable="0">
+                    <mxGeometry x="-0.3061" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="408" value="response จากลูกค้า" style="rhombus;whiteSpace=wrap;html=1;" parent="397" vertex="1">
                     <mxGeometry x="339.89" y="377" width="130" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="747" value="" style="edgeStyle=none;html=1;" parent="397" source="410" target="473" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="410" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="397" vertex="1">
-                    <mxGeometry x="395.89" y="494" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="394.89" y="509" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="412" value="" style="edgeStyle=none;html=1;" parent="397" source="413" target="441" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -825,8 +888,8 @@
                 <mxCell id="1134" value="" style="edgeStyle=none;html=1;" parent="397" source="415" target="480" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="415" value="แสดงยอด&lt;span style=&quot;font-family: Sarabun; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;เหรียญ และธนบัตร&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(int machine_balance&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 13px; font-family: Sarabun; text-align: left; text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.06486486486486487;fillColor=#cce5ff;strokeColor=#36393d;" parent="397" vertex="1">
-                    <mxGeometry x="308.91999999999996" y="2002" width="185" height="45" as="geometry"/>
+                <mxCell id="415" value="แสดงยอด&lt;span style=&quot;font-family: Sarabun; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;เหรียญ และธนบัตร&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;cal_BnC(int machine_balance&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 13px; font-family: Sarabun; text-align: left; text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.06486486486486487;fillColor=#cce5ff;strokeColor=#36393d;" parent="397" vertex="1">
+                    <mxGeometry x="300" y="2002" width="203.92" height="45" as="geometry"/>
                 </mxCell>
                 <mxCell id="416" value="" style="endArrow=none;html=1;rounded=0;" parent="397" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -944,7 +1007,7 @@
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="550" y="830"/>
-                            <mxPoint x="550" y="504"/>
+                            <mxPoint x="550" y="520"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -990,7 +1053,7 @@
                 <mxCell id="1136" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="397" source="480" target="413" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="480" value="แสดงยอด&lt;span style=&quot;font-family: Sarabun; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;เหรียญ และธนบัตร&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(int&amp;nbsp; change&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 13px; font-family: Sarabun; text-align: left; text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.06486486486486487;fillColor=#cce5ff;strokeColor=#36393d;" parent="397" vertex="1">
+                <mxCell id="480" value="แสดงยอด&lt;span style=&quot;font-family: Sarabun; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;เหรียญ และธนบัตร&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 13px; text-align: left; text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;cal_BnC&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(int&amp;nbsp; change&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 13px; font-family: Sarabun; text-align: left; text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.06486486486486487;fillColor=#cce5ff;strokeColor=#36393d;" parent="397" vertex="1">
                     <mxGeometry x="309.32" y="2082.42" width="185" height="45" as="geometry"/>
                 </mxCell>
                 <mxCell id="481" value="" style="endArrow=none;html=1;rounded=0;" parent="397" edge="1">
@@ -1020,8 +1083,8 @@
                 <mxCell id="485" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="397" source="486" target="404" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="486" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;กำหนด&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; --&amp;gt;&amp;nbsp; int&amp;nbsp; &amp;nbsp; : sum = 0 ,&amp;nbsp; price = 0&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;, money = 0 , change = 0,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; text-align: center; background-color: transparent;&quot;&gt;machine_balance = 0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;--&amp;gt;&amp;nbsp; int&amp;nbsp; &amp;nbsp; : response = 1 , choice = 0&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;--&amp;gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;char : ch = &quot;\0&quot;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; --&lt;/span&gt;&amp;gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;int&amp;nbsp; &amp;nbsp; :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(0, 0, 0);&quot;&gt;C = 0 ,m = 0,ฺ B1000&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(0, 0, 0);&quot;&gt;= 0, B500&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(0, 0, 0);&quot;&gt;= 0, B100&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(0, 0, 0);&quot;&gt;= 0,&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; &lt;/span&gt;&amp;nbsp; B50 = 0, B20 = 0 , B1 = 0&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;(check ว่าซ้ำไหม?) --&amp;gt;&amp;nbsp; int :&amp;nbsp; &amp;nbsp; item1_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;rp&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;= 0 ,&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item2&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;rp&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;0 ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item3&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;rp&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;0&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item4_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;rp&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item5_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;rp&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;0&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item6&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;rp=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;0 ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item7&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;rp&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;(check item in stock) --&amp;gt; int :&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;item1_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;= 1 ,&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item2&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;1 ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item3&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_stock&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;1&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item4_&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;gt;&amp;gt;configure only!!&amp;lt;&amp;lt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item5_&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;1&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item6&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;1 ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item7&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_stock&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;1&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;align=left;" parent="397" vertex="1">
-                    <mxGeometry x="145.89" y="110" width="516.11" height="170" as="geometry"/>
+                <mxCell id="486" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;กำหนด&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; --&amp;gt;&amp;nbsp; int&amp;nbsp; &amp;nbsp; : sum = 0 ,&amp;nbsp; price = 0&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;, money = 0 , change = 0,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; text-align: center; background-color: transparent;&quot;&gt;machine_balance = 5000&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;--&amp;gt;&amp;nbsp; int&amp;nbsp; &amp;nbsp; : response = 1 , choice = 0&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;--&amp;gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;char : ch = &quot;\0&quot;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; --&lt;/span&gt;&amp;gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;int&amp;nbsp; &amp;nbsp; :&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(0, 0, 0);&quot;&gt;C = 0 ,m = 0,ฺ B1000&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(0, 0, 0);&quot;&gt;= 0, B500&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(0, 0, 0);&quot;&gt;= 0, B100&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(0, 0, 0);&quot;&gt;= 0,&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; &lt;/span&gt;&amp;nbsp; B50 = 0, B20 = 0 , B1 = 0&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;(check ว่าซ้ำไหม?) --&amp;gt;&amp;nbsp; int :&amp;nbsp; &amp;nbsp; item1_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;rp&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;= 0 ,&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item2&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;rp&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;0 ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item3&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;rp&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;0&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item4_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;rp&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item5_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;rp&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;0&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item6&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;rp=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;0 ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item7&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;rp&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;(check item in stock) --&amp;gt; int :&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;item1_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;= 1 ,&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item2&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;1 ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item3&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_stock&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;1&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item4_&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;gt;&amp;gt;configure only!!&amp;lt;&amp;lt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item5_&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;1&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp; ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item6&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;1 ,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item7&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;_stock&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;=&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;&amp;nbsp;1&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;align=left;" parent="397" vertex="1">
+                    <mxGeometry x="136.89" y="110" width="534.11" height="170" as="geometry"/>
                 </mxCell>
                 <mxCell id="487" value="do while&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="397" vertex="1">
                     <mxGeometry x="196.23" y="500" width="100" height="340" as="geometry"/>
@@ -1151,14 +1214,14 @@
                         <mxPoint x="364" y="2490" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="891" value="list_add&amp;nbsp; (function)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;startSize=23;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                    <mxGeometry x="950" y="20" width="920" height="1554" as="geometry"/>
+                <mxCell id="891" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;list_add&amp;nbsp; (function)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;startSize=23;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="170" y="40" width="920" height="1790" as="geometry"/>
                 </mxCell>
                 <mxCell id="892" style="edgeStyle=none;html=1;" parent="891" source="943" target="915" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="893" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น function&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="891" vertex="1">
-                    <mxGeometry x="175.99999999999994" y="50" width="130" height="30" as="geometry"/>
+                    <mxGeometry x="172.99999999999994" y="50" width="130" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="894" value="" style="edgeStyle=none;html=1;" parent="891" source="898" target="903" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1171,7 +1234,7 @@
                 <mxCell id="896" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="891" source="898" target="949" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="389" y="464"/>
+                            <mxPoint x="389" y="688"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1181,7 +1244,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="898" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือกโค้ก?&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;if choice == 1&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="891" vertex="1">
-                    <mxGeometry x="184.89" y="427" width="110.22" height="70" as="geometry"/>
+                    <mxGeometry x="184.89" y="651" width="110.22" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="899" value="" style="edgeStyle=none;html=1;" parent="891" source="903" target="908" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1194,7 +1257,7 @@
                 <mxCell id="901" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="891" source="903" target="956" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="390" y="575"/>
+                            <mxPoint x="390" y="799"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1204,7 +1267,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="903" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;น้ำเขียว?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if choice == 2&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="891" vertex="1">
-                    <mxGeometry x="184.89000000000004" y="540" width="110.22" height="70" as="geometry"/>
+                    <mxGeometry x="184.89000000000004" y="764" width="110.22" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="904" value="" style="edgeStyle=none;html=1;" parent="891" source="908" target="913" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1217,7 +1280,7 @@
                 <mxCell id="906" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="891" source="908" target="959" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="390" y="693"/>
+                            <mxPoint x="390" y="917"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1227,11 +1290,11 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="908" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;อเมริกาโน่?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if choice == 3&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="891" vertex="1">
-                    <mxGeometry x="184.89000000000004" y="658" width="110.22" height="70" as="geometry"/>
+                    <mxGeometry x="184.89000000000004" y="882" width="110.22" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="909" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="891" source="913" target="920" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="240.2884615384616" y="890" as="targetPoint"/>
+                        <mxPoint x="240.2884615384616" y="1114" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="910" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="909" vertex="1" connectable="0">
@@ -1242,7 +1305,7 @@
                 <mxCell id="911" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="891" source="913" target="962" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="390" y="810"/>
+                            <mxPoint x="390" y="1034"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1252,13 +1315,13 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="913" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;ลาเต้ หวานเจี๊ยบ?&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;if choice == 4&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="891" vertex="1">
-                    <mxGeometry x="185.89000000000004" y="776" width="110.22" height="70" as="geometry"/>
+                    <mxGeometry x="185.89000000000004" y="1000" width="110.22" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="914" value="" style="edgeStyle=none;html=1;" parent="891" source="915" target="951" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="915" value="กำหนดให้&lt;div&gt;price = 0 , choice = 0&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="891" vertex="1">
-                    <mxGeometry x="174" y="138" width="134" height="32" as="geometry"/>
+                    <mxGeometry x="173" y="138" width="134" height="32" as="geometry"/>
                 </mxCell>
                 <mxCell id="916" value="" style="edgeStyle=none;html=1;" parent="891" source="920" target="925" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1271,7 +1334,7 @@
                 <mxCell id="918" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="891" source="920" target="965" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="390" y="930"/>
+                            <mxPoint x="390" y="1154"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1281,7 +1344,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="920" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เมล็ดทานตะวัน?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;if choice == 5&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="891" vertex="1">
-                    <mxGeometry x="177" y="893" width="125.11" height="70" as="geometry"/>
+                    <mxGeometry x="177" y="1117" width="125.11" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="921" value="" style="edgeStyle=none;html=1;" parent="891" source="925" target="930" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1294,7 +1357,7 @@
                 <mxCell id="923" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="891" source="925" target="968" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="391" y="1048"/>
+                            <mxPoint x="391" y="1272"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1304,14 +1367,14 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="925" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;จิ้นส้มหมก?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if choice == 6&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="891" vertex="1">
-                    <mxGeometry x="184.89000000000016" y="1013" width="110.22" height="70" as="geometry"/>
+                    <mxGeometry x="184.89000000000016" y="1237" width="110.22" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="926" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;สิ้นสุด function list&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="891" vertex="1">
-                    <mxGeometry x="175.99999999999994" y="1491" width="130" height="30" as="geometry"/>
+                    <mxGeometry x="175.99999999999994" y="1715" width="130" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="927" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="891" source="930" target="932" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="240" y="1246.31" as="targetPoint"/>
+                        <mxPoint x="240" y="1470.31" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="928" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="927" vertex="1" connectable="0">
@@ -1322,22 +1385,22 @@
                 <mxCell id="929" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="891" source="930" target="971" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="394" y="1176"/>
+                            <mxPoint x="394" y="1400"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="930" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;เลือก&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;ถั่วแปบ&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font face=&quot;Sarabun&quot;&gt;if choice == 7&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="891" vertex="1">
-                    <mxGeometry x="184.89000000000016" y="1141" width="110.22" height="70" as="geometry"/>
+                    <mxGeometry x="184.89000000000016" y="1365" width="110.22" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="931" value="" style="edgeStyle=none;html=1;" parent="891" source="932" target="939" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="932" value="แสดง &quot;invalid input&quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="891" vertex="1">
-                    <mxGeometry x="172" y="1269.31" width="136" height="33" as="geometry"/>
+                    <mxGeometry x="172" y="1493.31" width="136" height="33" as="geometry"/>
                 </mxCell>
                 <mxCell id="933" value="" style="edgeStyle=none;html=1;" parent="891" target="926" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="241" y="1454.3099999999995" as="sourcePoint"/>
+                        <mxPoint x="241" y="1678.3099999999995" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="934" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="933" vertex="1" connectable="0">
@@ -1345,34 +1408,28 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="935" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="891" source="937" target="943" edge="1">
+                <mxCell id="935" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="891" source="1170" target="943" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="122" y="100" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="30" y="1410"/>
                             <mxPoint x="30" y="105"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="936" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="935" vertex="1" connectable="0">
-                    <mxGeometry x="-0.9573" relative="1" as="geometry">
-                        <mxPoint as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="937" value="while (choice != 1 &amp;amp;&amp;amp; choice != 2 ......จนถึง&amp;nbsp; &amp;amp;&amp;amp; choice != 7)" style="rhombus;whiteSpace=wrap;html=1;" parent="891" vertex="1">
-                    <mxGeometry x="150" y="1362.31" width="182" height="97" as="geometry"/>
+                <mxCell id="937" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;while (choice &amp;lt; 1 || choice &amp;gt; 7 )&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="891" vertex="1">
+                    <mxGeometry x="150" y="1586.31" width="182" height="97" as="geometry"/>
                 </mxCell>
                 <mxCell id="938" value="" style="edgeStyle=none;html=1;" parent="891" source="939" target="937" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="939" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="891" vertex="1">
-                    <mxGeometry x="230" y="1323.31" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="230" y="1547.31" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="940" value="" style="edgeStyle=none;html=1;" parent="891" source="941" target="898" edge="1">
+                <mxCell id="1152" style="edgeStyle=none;html=1;" edge="1" parent="891" source="941" target="1149">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="941" value="รับต่า choice" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="891" vertex="1">
-                    <mxGeometry x="173" y="373.31" width="136" height="33" as="geometry"/>
+                    <mxGeometry x="173" y="329.99999999999994" width="136" height="33" as="geometry"/>
                 </mxCell>
                 <mxCell id="942" value="" style="edgeStyle=none;html=1;" parent="891" source="893" target="943" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -1381,16 +1438,16 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="943" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="891" vertex="1">
-                    <mxGeometry x="231" y="95.31" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="229" y="95.31" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="944" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;switch case in&amp;nbsp;&lt;/span&gt;do while" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="891" vertex="1">
                     <mxGeometry x="784.06" width="140" height="35" as="geometry"/>
                 </mxCell>
                 <mxCell id="945" style="edgeStyle=none;html=1;strokeColor=#FF0000;" parent="891" source="949" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="560" as="targetPoint"/>
+                        <mxPoint x="550" y="784" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="389" y="560"/>
+                            <mxPoint x="389" y="784"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1408,20 +1465,20 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="949" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (item1_&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&amp;nbsp;&amp;gt; 0)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="891" vertex="1">
-                    <mxGeometry x="300.11" y="484" width="177" height="67" as="geometry"/>
+                    <mxGeometry x="300.11" y="708" width="177" height="67" as="geometry"/>
                 </mxCell>
-                <mxCell id="950" value="" style="edgeStyle=none;html=1;" parent="891" source="951" target="995" edge="1">
+                <mxCell id="1160" value="" style="edgeStyle=none;html=1;" edge="1" parent="891" source="951" target="941">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="951" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; แสดงรายการ&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1) โค้ก กระป๋องละ 10 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;5)&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;เมล็ดทานตะวัน 13 บาท&lt;/span&gt;&lt;br style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2)&amp;nbsp;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;น้ำเขียว กระป๋องละ 12 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;6) ถั่วแปบ 20 บาท&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3) อเมริกาโน่ 30 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;7)&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;จิ้นส้มหมก 15 บาท&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4) ลาเต้ หวานเจี๊ยบ 35 บาท&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; font-size: 14px; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;.&amp;gt;&amp;gt;&amp;gt;.input integer only!!!!!!&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" parent="891" vertex="1">
-                    <mxGeometry x="52" y="190" width="380" height="110" as="geometry"/>
+                    <mxGeometry x="50" y="195" width="380" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="952" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0505;" parent="891" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="670" as="targetPoint"/>
-                        <mxPoint x="388.6100000000001" y="658.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="550" y="894" as="targetPoint"/>
+                        <mxPoint x="388.6100000000001" y="882.0000000000005" as="sourcePoint"/>
                         <Array as="points">
-                            <mxPoint x="390" y="670"/>
+                            <mxPoint x="390" y="894"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1432,7 +1489,7 @@
                 </mxCell>
                 <mxCell id="954" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="891" source="956" target="999" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="620" y="625" as="targetPoint"/>
+                        <mxPoint x="620" y="849" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="955" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="954" vertex="1" connectable="0">
@@ -1441,7 +1498,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="956" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (item2_&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&amp;nbsp;&amp;gt; 0)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="891" vertex="1">
-                    <mxGeometry x="300.11000000000024" y="591" width="177" height="67" as="geometry"/>
+                    <mxGeometry x="300.11000000000024" y="815" width="177" height="67" as="geometry"/>
                 </mxCell>
                 <mxCell id="957" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="891" source="959" target="1001" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1452,7 +1509,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="959" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (item3_&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&amp;nbsp;&amp;gt; 0)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="891" vertex="1">
-                    <mxGeometry x="301.1100000000001" y="709" width="177" height="67" as="geometry"/>
+                    <mxGeometry x="301.1100000000001" y="933" width="177" height="67" as="geometry"/>
                 </mxCell>
                 <mxCell id="960" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="891" source="962" target="1003" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1463,7 +1520,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="962" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (item4_&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&amp;nbsp;&amp;gt; 0)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="891" vertex="1">
-                    <mxGeometry x="301.1100000000001" y="829" width="177" height="67" as="geometry"/>
+                    <mxGeometry x="301.1100000000001" y="1053" width="177" height="67" as="geometry"/>
                 </mxCell>
                 <mxCell id="963" value="" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="891" source="965" target="1005" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1474,7 +1531,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="965" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (item5_&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&amp;nbsp;&amp;gt; 0)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="891" vertex="1">
-                    <mxGeometry x="302.1100000000001" y="947" width="177" height="67" as="geometry"/>
+                    <mxGeometry x="302.1100000000001" y="1171" width="177" height="67" as="geometry"/>
                 </mxCell>
                 <mxCell id="966" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="891" source="968" target="1007" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1485,7 +1542,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="968" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (item6_&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&amp;nbsp;&amp;gt; 0)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="891" vertex="1">
-                    <mxGeometry x="302.1100000000001" y="1069" width="177" height="67" as="geometry"/>
+                    <mxGeometry x="302.1100000000001" y="1293" width="177" height="67" as="geometry"/>
                 </mxCell>
                 <mxCell id="969" style="edgeStyle=none;html=1;" parent="891" source="971" target="1009" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -1496,14 +1553,14 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="971" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;if (item7_&lt;/span&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; color: rgb(63, 63, 63);&quot;&gt;stock&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left; background-color: transparent;&quot;&gt;&amp;nbsp;&amp;gt; 0)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="891" vertex="1">
-                    <mxGeometry x="305.0000000000002" y="1196.31" width="177" height="67" as="geometry"/>
+                    <mxGeometry x="305.0000000000002" y="1420.31" width="177" height="67" as="geometry"/>
                 </mxCell>
                 <mxCell id="972" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0505;" parent="891" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="788" as="targetPoint"/>
-                        <mxPoint x="388.6100000000001" y="776.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="550" y="1012" as="targetPoint"/>
+                        <mxPoint x="388.6100000000001" y="1000.0000000000005" as="sourcePoint"/>
                         <Array as="points">
-                            <mxPoint x="390" y="788"/>
+                            <mxPoint x="390" y="1012"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1514,10 +1571,10 @@
                 </mxCell>
                 <mxCell id="974" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0505;" parent="891" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="908" as="targetPoint"/>
-                        <mxPoint x="388.6100000000001" y="896.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="550" y="1132" as="targetPoint"/>
+                        <mxPoint x="388.6100000000001" y="1120.0000000000005" as="sourcePoint"/>
                         <Array as="points">
-                            <mxPoint x="390" y="908"/>
+                            <mxPoint x="390" y="1132"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1528,10 +1585,10 @@
                 </mxCell>
                 <mxCell id="976" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0505;" parent="891" source="965" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="1025" as="targetPoint"/>
-                        <mxPoint x="388.6100000000001" y="1013.0000000000005" as="sourcePoint"/>
+                        <mxPoint x="550" y="1249" as="targetPoint"/>
+                        <mxPoint x="388.6100000000001" y="1237.0000000000005" as="sourcePoint"/>
                         <Array as="points">
-                            <mxPoint x="390" y="1025"/>
+                            <mxPoint x="390" y="1249"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1542,10 +1599,10 @@
                 </mxCell>
                 <mxCell id="978" style="edgeStyle=none;html=1;strokeColor=#FF0505;" parent="891" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="1148" as="targetPoint"/>
-                        <mxPoint x="390" y="1136" as="sourcePoint"/>
+                        <mxPoint x="550" y="1372" as="targetPoint"/>
+                        <mxPoint x="390" y="1360" as="sourcePoint"/>
                         <Array as="points">
-                            <mxPoint x="390" y="1148"/>
+                            <mxPoint x="390" y="1372"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1556,11 +1613,11 @@
                 </mxCell>
                 <mxCell id="980" style="edgeStyle=none;html=1;strokeColor=#FF0505;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="891" source="971" target="993" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="1275.31" as="targetPoint"/>
-                        <mxPoint x="390" y="1270" as="sourcePoint"/>
+                        <mxPoint x="550" y="1499.31" as="targetPoint"/>
+                        <mxPoint x="390" y="1494" as="sourcePoint"/>
                         <Array as="points">
-                            <mxPoint x="394" y="1280"/>
-                            <mxPoint x="560" y="1280"/>
+                            <mxPoint x="394" y="1504"/>
+                            <mxPoint x="560" y="1504"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -1569,145 +1626,207 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="982" style="edgeStyle=none;html=1;strokeColor=#FF0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="891" source="983" target="1023" edge="1">
+                <mxCell id="982" style="edgeStyle=none;html=1;strokeColor=#FF0000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="891" source="983" target="1023" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="460" y="340" as="targetPoint"/>
+                        <mxPoint x="580" y="590" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="560" y="340"/>
+                            <mxPoint x="560" y="564"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="983" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="891" vertex="1">
-                    <mxGeometry x="550" y="551" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="550" y="775" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="984" value="" style="edgeStyle=none;html=1;strokeColor=#FF0202;" parent="891" source="985" target="983" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="985" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="891" vertex="1">
-                    <mxGeometry x="550" y="660" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="550" y="884" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="986" value="" style="edgeStyle=none;html=1;strokeColor=#FF0202;" parent="891" source="987" target="985" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="987" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="891" vertex="1">
-                    <mxGeometry x="550" y="778" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="550" y="1002" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="988" value="" style="edgeStyle=none;html=1;strokeColor=#FF0202;" parent="891" source="989" target="987" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="989" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="891" vertex="1">
-                    <mxGeometry x="550" y="898" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="550" y="1122" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="990" value="" style="edgeStyle=none;html=1;strokeColor=#FF0202;" parent="891" source="991" target="989" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="991" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="891" vertex="1">
-                    <mxGeometry x="550" y="1015" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="550" y="1239" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="992" value="" style="edgeStyle=none;html=1;strokeColor=#FF0202;" parent="891" source="993" target="991" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="993" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="891" vertex="1">
-                    <mxGeometry x="550" y="1139" width="20" height="20" as="geometry"/>
-                </mxCell>
-                <mxCell id="994" value="" style="edgeStyle=none;html=1;" parent="891" source="995" target="941" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="995" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="891" vertex="1">
-                    <mxGeometry x="230" y="330" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="550" y="1363" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="996" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="891" source="997" target="1013" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="854.55" y="517.5"/>
+                            <mxPoint x="854.55" y="741.5"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="997" value="&lt;div&gt;price = 10&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;item1_rp = 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item1_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock--&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;break;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="891" vertex="1">
-                    <mxGeometry x="629" y="484" width="121.55" height="66" as="geometry"/>
+                    <mxGeometry x="629" y="708" width="121.55" height="66" as="geometry"/>
                 </mxCell>
                 <mxCell id="998" value="" style="edgeStyle=none;html=1;" parent="891" source="999" target="1013" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="999" value="&lt;div&gt;price = 12&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;item2_rp = 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item2_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock--&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;break;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="891" vertex="1">
-                    <mxGeometry x="632" y="595.5" width="121.55" height="58" as="geometry"/>
+                    <mxGeometry x="632" y="819.5" width="121.55" height="58" as="geometry"/>
                 </mxCell>
                 <mxCell id="1000" value="" style="edgeStyle=none;html=1;" parent="891" source="1001" target="1015" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="1001" value="&lt;div&gt;price = 30&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;item3_rp = 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;div style=&quot;font-family: Helvetica; text-align: center;&quot;&gt;&lt;span style=&quot;font-family: Sarabun; text-align: left; color: rgb(63, 63, 63);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item3_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock--&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;break;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="891" vertex="1">
-                    <mxGeometry x="626" y="714" width="131.55" height="58" as="geometry"/>
+                    <mxGeometry x="626" y="938" width="131.55" height="58" as="geometry"/>
                 </mxCell>
                 <mxCell id="1002" value="" style="edgeStyle=none;html=1;" parent="891" source="1003" target="1011" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="1003" value="&lt;div&gt;price = 35&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;item4_rp = 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item4_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock--&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;break;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="891" vertex="1">
-                    <mxGeometry x="626" y="835" width="131.55" height="56.5" as="geometry"/>
+                    <mxGeometry x="626" y="1059" width="131.55" height="56.5" as="geometry"/>
                 </mxCell>
                 <mxCell id="1004" value="" style="edgeStyle=none;html=1;" parent="891" source="1005" target="1017" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="1005" value="&lt;div&gt;price = 13&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;item5_rp = 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item5_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock--&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;break;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="891" vertex="1">
-                    <mxGeometry x="626" y="947.5" width="132.55" height="64.5" as="geometry"/>
+                    <mxGeometry x="626" y="1171.5" width="132.55" height="64.5" as="geometry"/>
                 </mxCell>
                 <mxCell id="1006" value="" style="edgeStyle=none;html=1;" parent="891" source="1007" target="1019" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="1007" value="&lt;div&gt;price = 15&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;item6_rp = 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item6_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock--&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;break;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="891" vertex="1">
-                    <mxGeometry x="627" y="1074" width="131.55" height="57" as="geometry"/>
+                    <mxGeometry x="627" y="1298" width="131.55" height="57" as="geometry"/>
                 </mxCell>
                 <mxCell id="1008" value="" style="edgeStyle=none;html=1;" parent="891" source="1009" target="1021" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="1009" value="&lt;div&gt;price = 20&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;item7_rp = 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: rgb(63, 63, 63);&quot;&gt;item7_&lt;/span&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;stock--&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); font-family: Sarabun; text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(63, 63, 63);&quot;&gt;break;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="891" vertex="1">
-                    <mxGeometry x="624" y="1196.31" width="133.55" height="65.69" as="geometry"/>
+                    <mxGeometry x="624" y="1420.31" width="133.55" height="65.69" as="geometry"/>
                 </mxCell>
                 <mxCell id="1010" value="" style="edgeStyle=none;html=1;" parent="891" source="1011" target="1017" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="1011" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="891" vertex="1">
-                    <mxGeometry x="844.06" y="852.5" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="844.06" y="1076.5" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="1012" value="" style="edgeStyle=none;html=1;" parent="891" source="1013" target="1015" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="1013" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="891" vertex="1">
-                    <mxGeometry x="844.06" y="614.5" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="844.06" y="838.5" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="1014" value="" style="edgeStyle=none;html=1;" parent="891" source="1015" target="1011" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="1015" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="891" vertex="1">
-                    <mxGeometry x="844.06" y="733" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="844.06" y="957" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="1016" value="" style="edgeStyle=none;html=1;" parent="891" source="1017" target="1019" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="1017" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="891" vertex="1">
-                    <mxGeometry x="844.06" y="970.5" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="844.06" y="1194.5" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="1018" value="" style="edgeStyle=none;html=1;" parent="891" source="1019" target="1021" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="1019" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="891" vertex="1">
-                    <mxGeometry x="844.06" y="1092.5" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="844.06" y="1316.5" width="20" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="1020" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="891" source="1021" target="939" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="810" y="1460" as="targetPoint"/>
+                        <mxPoint x="810" y="1684" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="854" y="1333"/>
+                            <mxPoint x="854" y="1557"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="1021" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="891" vertex="1">
-                    <mxGeometry x="844.06" y="1219.81" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="844.06" y="1443.81" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="1022" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="891" source="1023" target="995" edge="1">
+                <mxCell id="1143" value="" style="edgeStyle=none;html=1;" parent="891" source="1023" target="1142" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="1023" value="แสดง &quot;sold out&quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="891" vertex="1">
-                    <mxGeometry x="346" y="323.5" width="136" height="33" as="geometry"/>
+                    <mxGeometry x="492" y="518" width="136" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="1169" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="891" source="1142" target="943">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="560" y="105"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1142" value="break;" style="rounded=0;whiteSpace=wrap;html=1;" parent="891" vertex="1">
+                    <mxGeometry x="535" y="460" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="1161" value="" style="edgeStyle=none;html=1;" edge="1" parent="891" source="1149" target="1156">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1162" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1161">
+                    <mxGeometry x="-0.3962" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1167" value="" style="edgeStyle=none;html=1;" edge="1" parent="891" source="1149" target="898">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="368.6100000000001" y="416.5" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="370" y="420"/>
+                            <mxPoint x="370" y="630"/>
+                            <mxPoint x="240" y="630"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1168" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1167">
+                    <mxGeometry x="-0.2017" y="2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1149" value="รับค่าเป็น integer หรือไม่?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="891">
+                    <mxGeometry x="166" y="386.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1165" value="" style="edgeStyle=none;html=1;" edge="1" parent="891" source="1156" target="1163">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1156" value="แสดง &quot;Invalid input&quot;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="891">
+                    <mxGeometry x="174" y="480" width="136" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="1173" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="891" source="1163" target="1170">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1163" value="Clear buffer with getchar()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="891">
+                    <mxGeometry x="183" y="535" width="120" height="36.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="1170" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="891">
+                    <mxGeometry x="20" y="543.25" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="1171" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="891" source="937" target="1170">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="409" y="155" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="30" y="1635"/>
+                        </Array>
+                        <mxPoint x="330" y="1685" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1172" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1171">
+                    <mxGeometry x="-0.9573" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1190" value="check รับ ค่า integer เท่านั้น&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="891">
+                    <mxGeometry x="389" y="340" width="100" height="240" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

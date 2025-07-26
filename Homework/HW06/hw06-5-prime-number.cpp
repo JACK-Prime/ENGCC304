@@ -23,14 +23,14 @@ int main () {
     scanf("%d",&num) ;
     
     for (i = num ; i >= 2 ; i--) {
-
+        check = 1; // reset val
         for (count = 2 ; count < i ; count++){
             if (i % count == 0) {
                 check = 0 ;
                 break;
             }
         }
-        if (check){
+        if (check == 1 ){
             printf("%d ",i);
         }
     }
