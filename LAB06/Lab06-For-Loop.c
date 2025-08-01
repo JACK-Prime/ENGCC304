@@ -4,25 +4,26 @@
 #include <stdio.h>
 
 int main () {
-    int N = 0, check;
+    int N = 0, i = 0 , check = 0;
 
     printf("Enter number: ");
-    check = scanf("%d",&N); //ถ้าใส่นอกเหนือพวก %d จะผิด 
+    check = scanf("%d",&N); // ถ้า input %d 
+    printf("\n%d",check ); // ตรวจ
 
-    if (check == 0) {
-        printf("Invalid input(number only!!)");
-    }
+    if (check == 0){
+        printf("\nInvalid input(number only!!)") ;
+    } 
     else if ( (N % 2) != 0) {
-        printf("Series:  ");
-        for (int i = 1 ; i <= N ; i++) {
+        printf("Series: ");
+        for ( i = 1 ; i <= N ; i++) {
             if ((i % 2) != 0) {
                 printf("%d ",i); 
             }
         }
     }
     else {
-        printf("Series:  ");
-         for (int i = N ; i >= 0 ; i--) {
+        printf("Series: ");
+         for ( i = N ; i >= 0 ; i--) {
             if ((i % 2) == 0) {
                 printf("%d ",i); 
             }
