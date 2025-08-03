@@ -4,7 +4,7 @@
 
 int main () {
     srand( time( NULL ) ) ; //seed random
-    int random_num = 22 ; // ถ้าไม่ใส่ + 1 จะนับตั้งแต่ 0 - 99  ---> ถ้าใส่ 1 - 100
+    int random_num ; 
     int guess_num = 0 ;
     int ans = 0 , check = 0 ;
     int score , min , max ;
@@ -22,6 +22,7 @@ int main () {
             printf("\nSee you again.\n") ;
         }//end else if
         else if ( ans == 1 ) {
+            random_num = rand() % 100 + 1 ; // ถ้าไม่ใส่ + 1 จะนับตั้งแต่ 0 - 99  ---> ถ้าใส่ 1 - 100
             score = 100 ;
             min = 1 ;
             max = 100 ;
@@ -52,7 +53,7 @@ int main () {
                     if (score <= 0) {
                         printf("\nGAME OVER >>>> your score is %d.\n", score);
                         break;
-                    }
+                    }//end if 
                     printf("\nSorry, the winning number is HIGHER than %d. (Score=%d)\n", guess_num, score);
                     min = guess_num + 1;
                 }//end else 
