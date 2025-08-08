@@ -9,15 +9,15 @@ int main () {
     int guess_num = 0 ;
     int check = 0 ;
     int score , min , max ;
-    char exit[3] ;
+    char ans[3] ;
     bool condition = true ;
     
     while (condition) {
-        exit[3] = '\0' ;
+        ans[3] = '\0' ;
         printf("\nDo you want to play game (1=play,-1=exit) : \n") ;
-        scanf(" %s", exit) ; // check %d integer 
+        scanf("%s", ans) ; // check %d integer 
 
-        if ( exit[0] == '1') {
+        if ( ans[0] == '1') {
             random_num = rand() % 100 + 1 ; // ถ้าไม่ใส่ + 1 จะนับตั้งแต่ 0 - 99  ---> ถ้าใส่ 1 - 100
             score = 100 ;
             min = 1 ;
@@ -41,6 +41,10 @@ int main () {
                 }//end else if 
                 else if (guess_num > random_num) {
                     score -= 10 ;
+                    if (score <= 0) {
+                        printf("\nGAME OVER >>>> your score is %d.\n", score) ;
+                        break;
+                    }//end if 
                     printf("\nSorry, the winning number is LOWER than %d. (Score=%d)\n", guess_num, score);
                     max = guess_num - 1 ;
                 }//end else if
@@ -53,10 +57,10 @@ int main () {
                     printf("\nSorry, the winning number is HIGHER than %d. (Score=%d)\n", guess_num, score);
                     min = guess_num + 1 ;
                 }//end else 
-            } while ( guess_num != random_num && score > 0) ;//end do-while
+            } while ( guess_num != random_num) ;//end do-while
         
         }//end if
-        else if ( exit[0] == '-' && exit[1] == '1') {
+        else if ( ans[0] == '-' && ans[1] == '1') {
             printf("\nSee you again.\n") ;
             condition = false ;
         }//end else if
