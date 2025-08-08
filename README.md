@@ -6,9 +6,9 @@
     ║  "But in code, we can create something beautiful." - Me       ║
     ╚═══════════════════════════════════════════════════════════════╝
 ```
-```
+
 ![Breaking GIF](https://github.com/user-attachments/assets/01eb1d63-a782-4761-8430-2e27ae3f9c84)
-```
+
 ## 🚀 About This Jedi Coder
 
 **Name:** Natthakit Rodruean  
@@ -129,4 +129,5 @@ class JediProgrammer:
 [![Made with ❤️ and lots of ☕](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20lots%20of%20%E2%98%95-red)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div># ENGCC304
+
 
