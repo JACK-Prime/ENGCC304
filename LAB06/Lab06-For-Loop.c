@@ -12,22 +12,22 @@ int main () {
 
     if (check == 0){
         printf("\nInvalid input(number only!!)") ;
-    } 
+    }//end if 
     else if ( (N % 2) != 0) {
         printf("Series: ");
         for ( i = 1 ; i <= N ; i++) {
             if ((i % 2) != 0) {
                 printf("%d ",i); 
-            }
-        }
-    }
+            }//end if
+        }//end for
+    }//end else if
     else {
         printf("Series: ");
          for ( i = N ; i >= 0 ; i--) {
             if ((i % 2) == 0) {
                 printf("%d ",i); 
-            }
-        }
-    }
+            }//end if 
+        }// end for
+    }//end else
     return 0 ; 
-}
+}//end function 

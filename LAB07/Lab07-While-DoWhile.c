@@ -9,17 +9,16 @@ int main () {
     int guess_num = 0 ;
     int check = 0 ;
     int score , min , max ;
-    char Exit[3] ;
+    char exit[3] ;
     bool condition = true ;
     
-
     while (condition) {
-        Exit[3] = '\0' ;
+        exit[3] = '\0' ;
         printf("\nDo you want to play game (1=play,-1=exit) : \n") ;
-        scanf(" %s", Exit) ; // check %d integer 
+        scanf(" %s", exit) ; // check %d integer 
 
-        if ( Exit[0] == '1') {
-            random_num = 22 ; // ถ้าไม่ใส่ + 1 จะนับตั้งแต่ 0 - 99  ---> ถ้าใส่ 1 - 100
+        if ( exit[0] == '1') {
+            random_num = rand() % 100 + 1 ; // ถ้าไม่ใส่ + 1 จะนับตั้งแต่ 0 - 99  ---> ถ้าใส่ 1 - 100
             score = 100 ;
             min = 1 ;
             max = 100 ;
@@ -57,7 +56,7 @@ int main () {
             } while ( guess_num != random_num && score > 0) ;//end do-while
         
         }//end if
-        else if ( Exit[0] == '-' && Exit[1] == '1') {
+        else if ( exit[0] == '-' && exit[1] == '1') {
             printf("\nSee you again.\n") ;
             condition = false ;
         }//end else if
