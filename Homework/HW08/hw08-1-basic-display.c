@@ -21,8 +21,8 @@
 #include<stdio.h>
 
 int main () {
-    int n = 0  ; 
-    float avg = 0.0f ,sum = 0.0f , numbers = 0.0f ; 
+    int n = 0 ,numbers = 0  ; 
+    float avg = 0.0f ,sum = 0.0f ; 
 
     printf("Enter value n : \n") ;
     scanf("%d" , &n );
