@@ -17,16 +17,16 @@ int main () {
 
     printf("Series : ") ;
     for (int i = 1 ; i <= digits ; i++ ) {
-        n1 = n2 ;
-        n2 = next_num  ;
-        next_num = n1 + n2 ;
+        n1 = n2 ;             //Round 1 --> 1    //Round 2 --> 0     //Round 3 --> 1 
+        n2 = next_num  ;      //Round 1 --> 0    //Round 2 --> 1     //Round 3 --> 1
+        next_num = n1 + n2 ;  //Round 1 --> 1    //Round 2 --> 1     //Round 3 --> 2
         printf("%d " ,next_num) ; 
         
         sum += next_num ;
         for (int j = i ; j <= digits - 1  ; j++ ) { 
             printf("+ ") ;
             break ;
-        } 
-    }
-    printf("\n%d",sum);
+        }//end for 
+    }//end for 
+    printf("\nSum = %d",sum) ;
 }
