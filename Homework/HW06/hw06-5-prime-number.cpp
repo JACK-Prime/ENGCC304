@@ -14,25 +14,27 @@
     Output:
         97 89 83 79 73 71 67 61 59 53 47 43 41 37 31 29 23 19 17 13 11 7 5 3 2
 */
+//prime nuber  คือ จำนวนที่มีตัวหารหรือตัวประกอบได้เพียง 2 จำนวนเท่านั้น คือตัวมันเอง และ 1  (ทำแบบ loop -->> ไม่นับ 1 กับเลขตัวมันเอง)
 #include <stdio.h>
+#include <stdbool.h>
 int main () {
     int i = 0 ;
-    int num = 0 , count = 0 , check = 1 ;
+    int num = 0 , count = 0 ;
+    bool prime ;
 
     printf("Enter number : ") ;
     scanf("%d",&num) ;
     
     for (i = num ; i >= 2 ; i--) {
-        check = 1; // reset val
-        for (count = 2 ; count < i ; count++){
-            if (i % count == 0) {
-                check = 0 ;
-                break;
-            }
-        }
-        if (check == 1 ){
-            printf("%d ",i);
-        }
-    }
+        prime = true ; // reset val
+        for (count = 2 ; count < i ; count++) {// ลองหารทุกตัวตั้งแต่ 2 ถึง (เลขนั้น-1) //ไม่เอาตัวมันเอง 
+            if (i % count == 0) { //เจอหารลงตัว
+                prime = false ;
+            }//end if 
+        }//end for 
+        if (prime == true ){//ไม่เจอหารลงตัวร that's prime number 
+            printf("%d ",i) ;
+        }//end if 
+    }//end for (main)
     return 0 ;
 }
