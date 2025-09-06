@@ -23,20 +23,22 @@
 
         printf("Enter number : ");
         scanf("%d",&num);
-
+        
         i = num ;
 
         while ( i >= 2 ) {
             count = 2 ;
             prime = true ;
             while ( count < i ) {
-                if ( i % count == 0 ) {
+                while ( i % count == 0 ) {
                     prime = false ;
+                    break ;
                 }
                 count++ ; 
             }
-            if ( prime == true ){
+            while ( prime == true ){
                 printf("%d ",i) ;
+                break;
             }
             i-- ;
         }

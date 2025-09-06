@@ -16,12 +16,9 @@ int main () {
         prime = true ;// reset 
 
         do { 
-            if ( i == 2 ) {//ปกติจะมี while (count < i) ; คอย checkS
-            prime = true ;
-            }//end if
-            else if ( i % count == 0 ) {
-            prime = false ;
-            }        
+            if ( ( i % count == 0 ) || i < 2 ) {//ปกติจะมี while จะมีการ check ก่อนทำ และ ไม่เอาตัวมันเอง
+                prime = false ;
+            }    
             count ++ ;           
         } while ( count < i ) ;//ไม่เอาตัวมันเอง //end do-while
 
