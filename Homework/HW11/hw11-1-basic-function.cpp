@@ -12,8 +12,6 @@
 */
 #include <stdio.h>
 
-int sum = 0 ;
-
 int summation(int ,int ,int ) ;
 
 int main () {
@@ -28,12 +26,10 @@ int main () {
     printf("Input 3 : \n") ;
     scanf("%d" , &three) ;
 
-    sum = summation(one , two ,three) ;
-
-    printf("Summation = %d (Calculate by Additional Function)",sum) ;
+    printf("Summation = %d (Calculate by Additional Function)", summation(one , two , three ) ) ;
     return 0 ;
 }
 
 int summation(int num1 , int num2 , int num3 ) {
-    return sum = num1 + num2 + num3 ; 
+    return num1 + num2 + num3 ; 
 }
