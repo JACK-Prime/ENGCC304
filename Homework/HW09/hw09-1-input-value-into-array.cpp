@@ -33,7 +33,7 @@ int main () {
     int array[N] = {0} ;
 
     for ( i = 0 ; i < N ; i++) {
-        printf("Input [%d] : ", i) ;
+        printf("Input [%d] : \n", i) ;
         scanf("%d", &array[i]);
         if ( array[i] == -1 ) {
             break ;
