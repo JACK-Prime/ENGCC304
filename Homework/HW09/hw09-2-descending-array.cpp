@@ -28,7 +28,7 @@ int main () {
     int array[100] = {} ; 
 
     while(true) {
-        printf("Input : ") ;
+        printf("Input : \n") ;
         scanf("%d", &array[ N ]) ;
         if ( array[ N ] == -1 || N >= 99 ) break ;
         N++ ;
