@@ -34,7 +34,6 @@ int main () {
 
 void swapSTR(char *in , char *out) {
     for (int i = 0 ; i < strlen(in) ; i++) {
-        char reverse[30] ;
         out[ i ] = in[ (strlen(in) - 1) - i ] ;
     }//end for 
 }
