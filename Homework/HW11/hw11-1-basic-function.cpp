@@ -26,7 +26,9 @@ int main () {
     printf("Input 3 : \n") ;
     scanf("%d" , &three) ;
 
-    printf("Summation = %d (Calculate by Additional Function)", summation(one , two , three ) ) ;
+    int sum = summation(one , two , three ) ;
+
+    printf("Summation = %d (Calculate by Additional Function)", sum ) ;
     return 0 ;
 }
 
