@@ -59,6 +59,7 @@
   "files.associations": {
     "cmath": "cpp",
     "limits": "cpp",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "ranges": "cpp"
   }
 }
