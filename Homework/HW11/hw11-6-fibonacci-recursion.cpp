@@ -29,14 +29,11 @@ int main () {
         if ( i < lenght - 1 ) printf("+ ") ;
     }
     printf("\nsum = %d " , sum ) ;
+    printf("\nsum = %d " , fib(5) ) ;
     return 0 ; 
 }//end function
 
 int fib(int position ) { //Recursion Function
-    if (position > 1 )return fib(position - 1) + fib(position - 2 ) ;
-    else if ( position == 0 || position == 1 ) return 1 ; //skip 0 
-    else {
-        printf("Errors : position must be >= 0\n") ;
-        return -1 ;
-    }
+    if ( position == 0 || position == 1 ) return 1 ; 
+    else return fib(position - 1) + fib(position - 2 ) ; // ex .ตัวที่ 3 = ตัวที่ 2 + ตัวที่ 1
 } 
