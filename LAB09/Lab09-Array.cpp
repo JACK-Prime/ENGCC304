@@ -14,7 +14,7 @@ int main () {
 
     for ( i = 0 ; i < N ; i++) {
         printf("Input [%d] : \n", i) ;
-        scanf("%d", &array[i]);
+        scanf("%d", &array[ i ]) ;
     }//end for
 
     printf("\nIndex = ");
