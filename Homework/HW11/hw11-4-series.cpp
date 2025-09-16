@@ -23,7 +23,7 @@ int main () {
 
     ans = seriesFAC(digit) ; //return series
 
-    printf("%d", ans ) ; 
+    printf("sum = %d", ans ) ; 
     return 0 ; 
 }
 

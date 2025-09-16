@@ -15,7 +15,7 @@ int main () {
             while(getchar() != '\n') ; //clear
             continue ;
         }
-        else break ;
+        else break ;    
     } while (true) ;
      
 

@@ -41,7 +41,7 @@ int main  () {
     printf("Name: %s (%d)\n", nameA, ageA);
     printf("Name: %s (%d)\n", nameB, ageB);
      
-    swap(&ageA , &ageB) ; //function แต่ใช้ pointer
+    swap(&ageA , &ageB) ; //function แต่ใช้ pointer & อ้างอิง int address
 
     printf("\n** SWAP AGE **\n") ;
     printf("Name: %s (%d)\n", nameA, ageA);

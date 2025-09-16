@@ -26,8 +26,8 @@ int main () {
     printf("Enter words : ") ;
     scanf("%s" ,words) ;
 
-    printf("\n** reverse **") ;
     swapSTR(words , reverse ) ; 
+
     printf("\n%s" , reverse) ;
 
 }

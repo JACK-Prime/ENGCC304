@@ -29,7 +29,6 @@ int main () {
         if ( i < lenght - 1 ) printf("+ ") ;
     }
     printf("\nsum = %d " , sum ) ;
-    printf("\nsum = %d " , fib(5) ) ;
     return 0 ; 
 }//end function
 

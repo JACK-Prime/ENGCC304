@@ -23,7 +23,7 @@ int main () {
     int MAX_Height = 0 , MAX_Age = 0  ;
 
     MAX_Height = Max_height(Height) ;
-    printf("\n\tMax Height = %d", MAX_Height) ;
+    printf("\tMax Height = %d", MAX_Height) ;
 
     Max_age( Age, &MAX_Age ) ;
     printf("\n\tMax Age = %d", MAX_Age) ;

@@ -17,7 +17,7 @@ int main() {
 
     printf("Input character : ") ;
     fgets(name, sizeof(name), stdin) ;// มี \n อยู่ใน name หลังจาก fgets
-    getchar() ;
+
     printf("Name: %s\n", name) ;
 
     return 0 ;
