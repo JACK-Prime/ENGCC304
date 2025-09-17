@@ -28,16 +28,16 @@ int main () {
     printf("Input :\n") ;
     for ( i = 0 ; i < row ; i++ ) { //x
         for ( j = 0 ; j < col ; j++ ) { //y
-            scanf("%d", &array1[ i ][ j ] , &array1[ i + 1 ][ j + 1 ] , &array1[ i + 2 ][ j + 2 ] ) ;
+            scanf("%d", &array1[ i ][ j ] ) ;
         }
     }
     //Array2
-    printf("Array2 element : %d %d" , row , col ) ;
+    printf("Array2 element : %d %d\n" , row , col ) ;
     //input Array2
     printf("Input :\n") ;
     for ( i = 0 ; i < row ; i++ ) { //x
         for ( j = 0 ; j < col ; j++ ) { //y
-            scanf("%d", &array2[ i ][ j ] , &array2[ i + 1 ][ j + 1 ] , &array2[ i + 2 ][ j + 2 ] ) ;
+            scanf("%d", &array2[ i ][ j ] ) ;
         }
     }
     //cal sum
