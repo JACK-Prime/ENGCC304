@@ -60,6 +60,7 @@
     "cmath": "cpp",
     "limits": "cpp",
     "stdio.h": "c",
-    "ranges": "cpp"
+    "ranges": "cpp",
+    "array": "cpp"
   }
 }
