@@ -64,4 +64,5 @@ int main () {
     for ( i = 0 ; i < ( n1 + n2 ) ; i++ ) {
         printf("%d " , array_3[ i ] ) ; 
     }
+    return 0 ;
 }
