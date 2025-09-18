@@ -72,24 +72,31 @@ int main () {
         printf("\n") ;
     }
     //cal 
-    printf("AArray1 x Array2\n") ; 
-    int multiply[ row1 ][ col2 ] ;
-    int sum = 0 ;
-    for ( i = 0 ; i < row1 ; i++ ) {
-        for ( j = 0 ; j < col2 ; j++ ) {   
-            sum = 0 ; 
-            for (int m = 0 ; m < row2 ; m++ ) {
-                sum += matrix1[ i ][ m ] * matrix2[ m ][ j  ] ;
+    if ( col1 == row2 ) {
+        printf("AArray1 x Array2\n") ; 
+        int multiply[ row1 ][ col2 ] ;
+        int sum = 0 ;
+        for ( i = 0 ; i < row1 ; i++ ) {
+            for ( j = 0 ; j < col2 ; j++ ) {   
+                sum = 0 ; 
+                for (int m = 0 ; m < row2 ; m++ ) {
+                    sum += matrix1[ i ][ m ] * matrix2[ m ][ j  ] ;
+                }
+                multiply[ i ][ j ] = sum ;
             }
-            multiply[ i ][ j ] = sum ;
         }
-    }
-    //show multiply 
-    for( i = 0 ; i < row1 ; i++ ) {
-        for( j = 0 ; j < col2 ; j++ ) {
-            printf("%d " , multiply[ i ][ j ] ) ;
+        //show multiply 
+        for( i = 0 ; i < row1 ; i++ ) {
+            for( j = 0 ; j < col2 ; j++ ) {
+                printf("%d " , multiply[ i ][ j ] ) ;
+            }
+            printf("\n") ;
         }
-        printf("\n") ;
+        return 0 ; 
     }
-    return 0 ; 
+    else {
+        printf("Matrix multiplication not possible: col1 != row2\n");
+        return 0 ;
+    }
+    
 }
