@@ -19,7 +19,7 @@ int main () {
     } while (true) ;
      
 
-    digits = log10(num) + 1 ; //หาหลักของจำนวนนั้น  10^x = num  --> 10,100,1000,10000 ไม่ใช่เลข armstrong แน่นอน
+    digits = log10(num) + 1 ; //หาหลักของจำนวนนั้น  10^x = num  --> 10,100,1000,10000 ไม่ใช่เลข armstrong แน่นอน   
     sum = cal_armstrong( num , digits ) ;
 
     if (sum == num ) printf("Pass.") ;

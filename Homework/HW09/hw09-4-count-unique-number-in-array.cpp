@@ -60,7 +60,8 @@ int main () {
         for ( int j = 0 ; j < N ; j++ ) {
             if ( element[ i ] == element[ j ] && i != j ) count++ ; //check ทุกตัว
         }
-        printf("%d -> %d value%s.\n", element[ i ] , count , count > 1 ? "s" : "" ) ;
+        if ( element[ i ] == element[ i - 1 ] ) continue ; //skip 
+        else printf("%d -> %d value%s.\n", element[ i ] , count , count > 1 ? "s" : "" ) ;
     }
     return 0 ;
 }
