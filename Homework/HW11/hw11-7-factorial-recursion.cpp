@@ -28,7 +28,7 @@ int main () {
     printf("%d! = " , num ) ;
     for ( int i = num ; i > 0  ; i-- ) {
         printf("%d " , i ) ;
-        if ( i > 0 + 1 ) printf("x ") ;  
+        if ( i > 1 ) printf("x ") ;  
     }  
     fac = factorial( num ) ;
     printf("\n%d! = %d\n" , num ,fac  ) ;
