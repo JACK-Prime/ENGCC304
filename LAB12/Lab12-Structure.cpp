@@ -23,10 +23,10 @@ int main () {
     printf("Enter the details of 3 students : \n") ;
     printf("Student 1: \n") ;
     Student_1 = input_student( ) ;
-    while (getchar() != '\n') ;
+    while (getchar() != '\n') ; //clear buffer ปัญหาเยอะ 
     printf("Student 2: \n") ;
     Student_2 = input_student( ) ;
-    while (getchar() != '\n') ;
+    while (getchar() != '\n') ; //clear buffer ปัญหาเยอะ 
     printf("Student 3: \n") ;
     Student_3 = input_student( ) ;
     //display
@@ -43,7 +43,7 @@ S input_student ( ) {
     
     printf("Enter name: ") ; 
     fgets(temp_name , sizeof(temp_name) ,stdin) ;  
-    temp_name[strlen(temp_name) - 1] = '\0'; // มี \n อยู่ใน name หลังจาก fgets
+    temp_name[strlen(temp_name) - 1 ] = '\0'; // มี \n อยู่ใน name หลังจาก fgets
     strcpy( st.Name , temp_name ) ;
     printf("Enter ID : ") ;
     scanf("%s", st.ID) ;
