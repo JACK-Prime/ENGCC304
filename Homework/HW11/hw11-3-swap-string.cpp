@@ -24,7 +24,8 @@ int main () {
     char reverse[30] ;
 
     printf("Enter words : ") ;
-    scanf("%s" ,words) ;
+    fgets(words, sizeof(words), stdin) ;
+    words[strlen(words) - 1 ] = '\0';
 
     swapSTR(words , reverse ) ; 
 
