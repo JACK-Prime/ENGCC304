@@ -23,8 +23,10 @@ int main () {
     printf("Enter the details of 3 students : \n") ;
     printf("Student 1: \n") ;
     Student_1 = input_student( ) ;
+    while (getchar() != '\n') ;
     printf("Student 2: \n") ;
     Student_2 = input_student( ) ;
+    while (getchar() != '\n') ;
     printf("Student 3: \n") ;
     Student_3 = input_student( ) ;
     //display
@@ -36,14 +38,15 @@ int main () {
 
 S input_student ( ) {
     int i = 0 ;
+    char temp_name [50] = "" ;
     S st ;
-    while (getchar() != '\n') ;  // <-- clear buffer ก่อนอ่านชื่อ add on แก้นานพอควร
+    
     printf("Enter name: ") ; 
-    fgets(st.Name , sizeof(st.Name), stdin) ;// มี \n อยู่ใน name หลังจาก fgets buffer 
-    st.Name[strcspn(st.Name, "\n")] = '\0' ; // ตัด \n ออก
+    fgets(temp_name , sizeof(temp_name) ,stdin) ;  
+    temp_name[strlen(temp_name) - 1] = '\0'; // มี \n อยู่ใน name หลังจาก fgets
+    strcpy( st.Name , temp_name ) ;
     printf("Enter ID : ") ;
-    scanf("%4s", st.ID) ;
-    while (getchar() != '\n') ;
+    scanf("%s", st.ID) ;
 
     for ( i = 0 ; i < 5 ; i++ ) {
         printf("Scores in Subject %d : " , i + 1) ;

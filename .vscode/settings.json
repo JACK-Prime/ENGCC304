@@ -62,6 +62,8 @@
     "stdio.h": "c",
     "ranges": "cpp",
     "array": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "text_encoding": "cpp",
+    "typeinfo": "cpp"
   }
 }
