@@ -53,9 +53,10 @@ int main () {
         scanf(" %c" , &Info[ i ].Sex ) ; 
         printf("Score : ") ;
         scanf("%f" , &Info[ i ].Score ) ; 
+        printf(" \n ") ;
     }
     //display
-    printf("_______Result_______") ;
+    printf("\n_______Result_______\n") ;
     for ( i = 0 ; i < n ; i ++) {
         printf("--| Person %c Information |--\n" , 'A' + i ) ; 
         printf(" Name : %s (%c) \n" , Info[ i ].Name , Info[ i ].Sex ) ;

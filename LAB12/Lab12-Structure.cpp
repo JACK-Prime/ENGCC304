@@ -37,7 +37,7 @@ int main () {
 S input_student ( ) {
     int i = 0 ;
     S st ;
-    while (getchar() != '\n') ;  // <-- เคลียร์ buffer ก่อนอ่านชื่อ add on แก้นานพอควร
+    while (getchar() != '\n') ;  // <-- clear buffer ก่อนอ่านชื่อ add on แก้นานพอควร
     printf("Enter name: ") ; 
     fgets(st.Name , sizeof(st.Name), stdin) ;// มี \n อยู่ใน name หลังจาก fgets buffer 
     st.Name[strcspn(st.Name, "\n")] = '\0' ; // ตัด \n ออก

@@ -44,13 +44,10 @@ struct Employee {
     float Multiply ;
 } typedef EM ;
 
-float getMultiply(int ) ;
-
 int main() {
     EM emp[100] ;
     int count = 0 ;
     char name[50] ; //เป็นชั่วคราว temp
-    int exp ;
 
     int count1_0 = 0, count1_2 = 0, count1_4 = 0, count1_6 = 0, count1_8 = 0, count2_0 = 0;
     int maxIndex = -1 , minIndex = -1 ;
@@ -63,15 +60,21 @@ int main() {
         strcpy(emp[count].Name, name) ; // ใส่เก็บ Name หลัก
         printf("EXP : ") ;
         scanf("%d", &emp[count].EXP) ;
-        emp[count].Multiply = getMultiply(emp[count].EXP) ; // avtivate function
+
+        if (emp[count].EXP >= 0 && emp[count].EXP < 1000) emp[count].Multiply = 1.0 ;///ไม่ใช้ function เพราะ มันทำให้ค่า return float ไม่แม่นยำ
+        else if (emp[count].EXP >= 1000 && emp[count].EXP < 2000) emp[count].Multiply = 1.2 ;
+        else if (emp[count].EXP >= 2000 && emp[count].EXP < 3000) emp[count].Multiply = 1.4 ;
+        else if (emp[count].EXP >= 3000 && emp[count].EXP < 4000) emp[count].Multiply = 1.6 ;
+        else if (emp[count].EXP >= 4000 && emp[count].EXP < 5000) emp[count].Multiply = 1.8 ;
+        else emp[count].Multiply = 2.0 ;
         // count แต่ละรอบ
-        if      (emp[count].Multiply <= 1.0 && emp[count].Multiply > 0  ) count1_0++ ;
-        else if (emp[count].Multiply <= 1.2 && emp[count].Multiply > 1.0) count1_2++ ; 
-        else if (emp[count].Multiply <= 1.4 && emp[count].Multiply > 1.2) count1_4++ ;
-        else if (emp[count].Multiply <= 1.6 && emp[count].Multiply > 1.4) count1_6++ ;
-        else if (emp[count].Multiply <= 1.8 && emp[count].Multiply > 1.6) count1_8++ ;
-        else if (emp[count].Multiply <= 2.0 && emp[count].Multiply > 1.8) count2_0++ ;
-        //เงินเดือนไหนมากสุด และน้อยที่สุด &&
+        if      (emp[count].Multiply == 1.0) count1_0++ ;
+        else if (emp[count].Multiply == 1.2) count1_2++ ; 
+        else if (emp[count].Multiply == 1.4) count1_4++ ;
+        else if (emp[count].Multiply == 1.6) count1_6++ ;
+        else if (emp[count].Multiply == 1.8) count1_8++ ;
+        else if (emp[count].Multiply == 2.0) count2_0++ ;
+        //เงินเดือนไหนมากสุด และน้อยที่สุด
         if (maxIndex == -1 || emp[count].Multiply > emp[maxIndex].Multiply)
             maxIndex = count ;
         if (minIndex == -1 || emp[count].Multiply < emp[minIndex].Multiply)
@@ -94,12 +97,3 @@ int main() {
 
     return 0;
 }// end program
-
-float getMultiply(int exp) {
-    if (exp >= 0 && exp < 1000) return 1.0;
-    else if (exp >= 1000 && exp < 2000) return 1.2 ;
-    else if (exp >= 2000 && exp < 3000) return 1.4 ;
-    else if (exp >= 3000 && exp < 4000) return 1.6 ;
-    else if (exp >= 4000 && exp < 5000) return 1.8 ;
-    else return 2.0;
-}
