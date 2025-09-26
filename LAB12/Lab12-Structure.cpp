@@ -13,12 +13,12 @@ void checkgrade(float ) ;
 float avg(S ,int  ) ;
 void show (S ) ; 
 
-S Student_1 ;//globla variable
-S Student_2 ;
-S Student_3 ; 
 
 int main () {   
     int i = 0 ;
+    S Student_1 ;//globla variable
+    S Student_2 ;
+    S Student_3 ; 
     //input 
     printf("Enter the details of 3 students : \n") ;
     printf("Student 1: \n") ;
