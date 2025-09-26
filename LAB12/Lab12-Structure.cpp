@@ -29,6 +29,7 @@ int main () {
     while (getchar() != '\n') ; //clear buffer ปัญหาเยอะ 
     printf("Student 3: \n") ;
     Student_3 = input_student( ) ;
+    
     //display
     show(Student_1) ;
     show(Student_2) ;
