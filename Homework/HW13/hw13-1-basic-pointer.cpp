@@ -24,12 +24,12 @@ struct Info {
     int Age ;
 } typedef SI ;
 
-void show( SI [] ) ;
+void show( SI [] ,int  ) ;
 void swap(int * ,int * ) ;
 
 int main () {
     int i = 0 , n = 2 ;
-    SI infomation[n] ;
+    SI infomation[ n ] ;
     for ( i = 0 ; i < n ; i++ ) {
         printf("Input %c\n" , 'A' + i ) ;
         printf("Name : ") ;
@@ -38,16 +38,17 @@ int main () {
         scanf("%d" , &infomation[ i ].Age ) ; 
     }
     printf("\n** RESULT **\n") ;
-    show( infomation ) ;
+    show( infomation , 2 ) ;
     printf("\n** SWAP AGE **\n") ;
     swap(&infomation[ 0 ].Age , &infomation[ 1 ].Age ) ;
-    show( infomation ) ;
+    show( infomation , 2 ) ;
     return 0 ; 
 }//end main program
 
-void show( SI infomation[] ) {
-    printf("Name: %s (%d)\n" , infomation[ 0 ].Name ,infomation[ 0 ].Age ) ; 
-    printf("Name: %s (%d)\n" , infomation[ 1 ].Name ,infomation[ 1 ].Age ) ;
+void show(SI infomation[], int n) {
+    for ( int i = 0 ; i < n ; i++ ) {
+        printf("Name: %s (%d)\n", infomation[ i ].Name , infomation[ i ].Age) ;
+    }
 }
 
 void swap(int *A , int *B) {
