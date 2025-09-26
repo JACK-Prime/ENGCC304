@@ -13,7 +13,6 @@ void checkgrade(float ) ;
 float avg(S ,int  ) ;
 void show (S ) ; 
 
-
 int main () {   
     int i = 0 ;
     S Student_1 ;//globla variable
