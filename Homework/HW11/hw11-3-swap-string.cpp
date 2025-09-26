@@ -37,4 +37,5 @@ void swapSTR(char *in , char *out) {
     for (int i = 0 ; i < strlen(in) ; i++) {
         out[ i ] = in[ (strlen(in) - 1) - i ] ;
     }//end for 
+    out[ strlen(in) ] = '\0'; //--> oirO'\0'
 }
