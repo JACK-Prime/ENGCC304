@@ -10,7 +10,7 @@ int main () {
 
     Area = (H * W)/2 ;
 
-    printf("Area : %.1f" , Area) ;
+    printf("Area = %.1f" , Area) ;
 
     return 0 ;
 
