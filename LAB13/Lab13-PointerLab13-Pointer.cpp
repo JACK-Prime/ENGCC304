@@ -15,21 +15,23 @@ int main() {
     ptr2 = &num2 ;
 
     printf("Before swap (num1 & num2) : %d , %d \n", num1, num2 ) ;
-    printf("Before swap adress (num1 & num2) : %d , %d \n", &num1, &num2 ) ;
-    printf("Before swap adress(ptr1 & ptr2) : %d , %d \n", &ptr1, &ptr2 ) ;
+    //printf("Before swap adress (num1 & num2) : %d , %d \n", &num1, &num2 ) ;
+    //printf("Before swap adress(ptr1 & ptr2) : %d , %d \n", &ptr1, &ptr2 ) ;
+    printf("Before swap adress(ptr1 & ptr2) : %d , %d \n", &num1, &num2 ) ;
     printf("Before swap adress(ptr1 & ptr2) : %d , %d \n", ptr1, ptr2 ) ;
 
     swapNumbers( &ptr1 , &ptr2 ) ; // --> address ส่ง assign pointerไป
 
     printf("After swap (num1 & num2) : %d , %d \n", num1, num2 ) ;
 
-
     return 0;
 }
 
 void swapNumbers(int **ptr1, int **ptr2) { //35, 18
+    printf("---------swap adress------------\n") ;
     printf("Before swap adress(ptr1 & ptr2) : %d , %d \n", **ptr1, **ptr2 ) ;
-    **ptr1 = **ptr1 + **ptr2 ;   //35 + 18 = 53
-    **ptr2 = **ptr1 - **ptr2 ;   //53 - 18 = 35
-    **ptr1 = **ptr1 - **ptr2 ;   //53 - 35 = 18
+    **ptr1 = **ptr1 + **ptr2 ;  
+    **ptr2 = **ptr1 - **ptr2 ;   
+    **ptr1 = **ptr1 - **ptr2 ;   
+    printf("After swap (num1 & num2) : %d , %d \n", **ptr1, **ptr1 ) ;
 }
