@@ -6,7 +6,7 @@
 int main () {
     int N = 0, i = 0 , check = 0;
 
-    printf("Enter number: ");
+    printf("Enter number: \n");
     check = scanf("%d",&N); // ถ้า input %d 
     printf("\n%d",check ); // ตรวจ
 
