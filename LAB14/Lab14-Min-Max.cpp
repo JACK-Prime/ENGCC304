@@ -42,7 +42,7 @@ void Show_Max (int arr[] ,int n ) {
     for ( i = 0 ; i < n ; i++ ) {
         if ( arr[ i ]  > MAX ) MAX = arr[ i ] ;
     }
-    printf("\n%5s= %2d" ,"MAX" , MAX ) ; 
+    printf("\n%s= %2d" ,"MAX" , MAX ) ; 
 }
 
 void Show_Min (int arr[] ,int n ) {
@@ -51,9 +51,5 @@ void Show_Min (int arr[] ,int n ) {
     for ( i = 0 ; i < n ; i++ ) {
         if ( arr[ i ] < MIN ) MIN = arr[ i ] ;
     }
-    printf("\n\n%5s= %2d" ,"MIN" , MIN ) ; 
+    printf("\n\n%s= %2d" ,"MIN" , MIN ) ; 
 }
-
-
-
-
